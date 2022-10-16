@@ -18,6 +18,6 @@ Please find my CV [here](https://mattesmaili.github.io/files/Matthew_Resume.pdf)
 
 
 
-![](https://mattesmaili.github.io/files/david.png | width = 10) If I were a Springer-Verlag Graduate Text in Mathematics, I would be David Eisenbud's **_Commutative Algebra with a view towards Algebraic Geometry_**. I am an attempt to write on commutative algebra in a way that includes the geometric ideas that played a great role in its formation; with a view, in short, towards Algebraic Geometry. I cover the material that graduate students studying Algebraic Geometry - and in particular those  studying the book Algebraic Geometry by Robin Hartshorne - should know.
+![](https://mattesmaili.github.io/files/david.png) If I were a Springer-Verlag Graduate Text in Mathematics, I would be David Eisenbud's **_Commutative Algebra with a view towards Algebraic Geometry_**. I am an attempt to write on commutative algebra in a way that includes the geometric ideas that played a great role in its formation; with a view, in short, towards Algebraic Geometry. I cover the material that graduate students studying Algebraic Geometry - and in particular those  studying the book Algebraic Geometry by Robin Hartshorne - should know.
 
 Which Springer GTM would _you_ be? [The Springer GTM Test](http://math.jhu.edu/~savitt/GTM.html)
