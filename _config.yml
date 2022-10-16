@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Matthew Esmaili Mallory"
   avatar           : "profile.png"
-  bio              : "**Statistics PhD Student**\n Harvard University"
-  location         : "Science Center 610\n 1 Oxford Street\n Cambridge, MA 02138" 
+  bio              : "**Statistics PhD Student @ Harvard University"
+  location         : "Cambridge, MA" 
   #employer         : "Harvard University"
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=yk_cLe4AAAAJ&hl=en"
