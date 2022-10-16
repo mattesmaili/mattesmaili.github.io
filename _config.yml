@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Matthew Esmaili Mallory"
 title_separator          : "-"
 name                     : &name "Matthew Esmaili Mallory"
-description              : &description "I am a PhD student in the Department of Statistics at [Harvard University](https://statistics.fas.harvard.edu/), advised by ___. I am broadly interested in ___."
+description              : &description "Statistics PhD Student at Harvard University."
 url                      : https://mattesmaili.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mattesmaili"
+  #github           : "mattesmaili"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/matthew-esmaili-mallory/"
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
