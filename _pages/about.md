@@ -19,7 +19,7 @@ You can find my CV [here](https://mattesmaili.github.io/files/Matthew_Resume.pdf
 
 ## Teaching
 
-This Fall 2022, I am a TF for Stat (XXX), taught by Professor (Name).
+This Fall 2023, I am a TF for Stat (XXX), taught by Professor (Name).
 
 ## Publications
 
