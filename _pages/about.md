@@ -25,5 +25,5 @@ This Fall 2022, I am a TF for Stat (XXX), taught by Professor (Name).
 ## Publications
 
 (2021) [Arbitrary-Depth Universal Approximation Theorems for Operator Neural Networks.](https://arxiv.org/abs/2109.11354)  
-Annan Yu, Chloé Becquey, Diana Halikias, Matthew Esmaili Mallory, Alex Townsend.
+Annan Yu, Chloe Becquey, Diana Halikias, Matthew Esmaili Mallory, Alex Townsend.
 
