@@ -19,7 +19,7 @@ You can find my CV [here](https://mattesmaili.github.io/files/Matthew_Resume.pdf
 
 ### Theorem of the Month, August 2023
 
-Let $\gamma = \lim_{n\to\infty}\left(\displaystyle-\log(n)+\sum_{k=1}^n\frac{1}{k}\right) \approx 0.577$ be the Euler-Mascheroni constant, and $\sigma(n)$ the divisor function (sum of divisors). For example, $\sigma(6) = 1 + 2 + 3 + 6 = 12$. Then $\sigma(n) < e^{\gamma}n\log\log n$ for every $n \geq 5041$ if and only if **the Riemann Hypothesis is true**.
+Let $\gamma = \lim_{n\to\infty}\left(\displaystyle-\log(n)+\sum_{k=1}^n\frac{1}{k}\right) \approx 0.577$ be the Euler-Mascheroni constant, and $\sigma(n)$ the divisor function (sum of divisors). For example, $\sigma(6) = 1 + 2 + 3 + 6 = 12$. Then $$\sigma(n) < e^{\gamma}n\log\log n \text{ for every } n \geq 5041$$ if and only if the Riemann Hypothesis is true. [Robin 1984](http://zakuski.utsa.edu/~jagy/Robin_1984.pdf)
 
 ## Teaching
 
