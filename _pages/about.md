@@ -19,7 +19,7 @@ You can find my CV [here](https://mattesmaili.github.io/files/Matthew_Resume.pdf
 
 ### Theorem of the Month, August 2023
 
-$$88\arctan\left(\frac{24478}{873121}\right) + 68\arctan\left(\frac{685601}{69049993}\right) = \pi$$. And yes, those arguments are both irreducible!
+$$88\arctan\left(\frac{24478}{873121}\right) + 68\arctan\left(\frac{685601}{69049993}\right) = \pi.$$ And yes, those arguments are both irreducible!
 
 ## Teaching
 
