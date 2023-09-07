@@ -23,7 +23,7 @@ $$88\arctan\left(\frac{24478}{873121}\right) + 68\arctan\left(\frac{685601}{6904
 
 ## Teaching
 
-This Fall 2023, I am a TF for Stat 104, taught by Professor Kevin Rader.
+• **Fall 2023**: Stat 104 (Introduction to Quantitative Methods for Economics), Dr. Kevin Rader
 
 ## Publications
 
