@@ -19,7 +19,7 @@ You can find my CV [here](https://mattesmaili.github.io/files/Matthew_Resume.pdf
 
 ### Theorem of the Week, September 11-15, 2023
 
-A set $A\subseteq\mathbb{R}^2$ is called *linearly accessible* if, for every $a \in A$, there exists a straight line $L \subseteq \mathbb{R}^2$ such that $A \cap L = \\{a\\}$. In other words, it is a set in which every single point has a line that runs only through it and nothing else in the set. Well, there exists a set $A \subset [0, 1] \times [0,1]$ with Lebesgue measure one which is linearly accessible!
+A set $A\subseteq\mathbb{R}^2$ is called *linearly accessible* if, for every $a \in A$, there exists a straight line $L \subseteq \mathbb{R}^2$ such that $A \cap L = \\{a\\}$. In other words, every single point has a line that runs only through it and nothing else in the set. Well, there exists a set $A \subset [0, 1] \times [0,1]$ with Lebesgue measure one which is linearly accessible!
 
 ## Teaching
 
