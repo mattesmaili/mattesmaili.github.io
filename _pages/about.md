@@ -17,9 +17,9 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/Matthew_Resume.pdf).
 
-### Theorem of the Week, September 11-15, 2023
+### Theorem of the Week, September 18-22, 2023
 
-A set $A\subseteq\mathbb{R}^2$ is called *linearly accessible* if, for every $a \in A$, there exists a straight line $L \subseteq \mathbb{R}^2$ such that $A \cap L = \\{a\\}$. In other words, every single point has a line that runs only through it and nothing else in the set. Well, there exists a set $A \subset [0, 1] \times [0,1]$ with Lebesgue measure one which is linearly accessible!
+Recall that a *twin prime* is a prime $p$ that is either $2$ more or $2$ less than another prime. For example, $5$ and $7$ are twin primes, and so are $11$ and $13$. Well, $$\sum_{\substack{p \text{ is a} \\ \text{twin prime}}}\frac{1}{p} \in (1.84, 2.29).$$
 
 ## Teaching
 
