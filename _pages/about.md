@@ -17,9 +17,9 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/Matthew_Resume.pdf).
 
-### Theorem of the Week, September 18-22, 2023
+### Theorem of the Week, September 25-29, 2023
 
-Recall that a *twin prime* is a prime $p$ that is either $2$ more or $2$ less than another prime. For example, $5$ and $7$ are twin primes, and so are $11$ and $13$. Well, $$\sum_{\substack{p \text{ is a} \\ \text{twin prime}}}\frac{1}{p} \in (1.84, 2.29).$$
+$$\prod_{p \text{ prime}}\frac{p^2-1}{p^2+1} = \frac{2}{5}.$$ For a hint on how to prove this (it's quite straightforward), notice that $\frac{2}{5} = \frac{\pi^4}{90}\cdot\left(\frac{6}{\pi}\right)^2$.
 
 ## Teaching
 
