@@ -19,7 +19,7 @@ You can find my CV [here](https://mattesmaili.github.io/files/Matthew_Resume.pdf
 
 ### Theorem of the Week, September 25-29, 2023
 
-$$\prod_{p \text{ prime}}\frac{p^2-1}{p^2+1} = \frac{2}{5}.$$ For a hint on how to prove this (it's quite straightforward), notice that $\frac{2}{5} = \frac{\pi^4}{90}\cdot\left(\frac{6}{\pi}\right)^2$.
+$$\prod_{p \text{ prime}}\frac{p^2-1}{p^2+1} = \frac{2}{5}.$$ For a hint on how to prove this (it's quite straightforward), notice that $\frac{2}{5} = \frac{\pi^4}{90}\cdot\left(\frac{6}{\pi^2}\right)^2$!
 
 ## Teaching
 
