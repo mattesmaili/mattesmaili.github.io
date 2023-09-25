@@ -21,6 +21,10 @@ You can find my CV [here](https://mattesmaili.github.io/files/Matthew_Resume.pdf
 
 $$\prod_{p \text{ prime}}\frac{p^2-1}{p^2+1} = \frac{2}{5}.$$ For a hint on how to prove this (it's quite straightforward), notice that $\frac{2}{5} = \frac{\pi^4}{90}\cdot\left(\frac{6}{\pi^2}\right)^2$!
 
+### Beatles Song of the Week, September 25-29, 2023
+
+**Baby, You're a Rich Man:** [This song](https://open.spotify.com/track/0JBvtprXP2Z0LP3jmzA7Xp?si=011e025090bf4719) has such an incredibly amusing bassline, deep and rich piano chords, and such poignant language. It was even used in the end credits of the Social Network (you know, that Facebook movie...)!  
+
 ## Teaching
 
 • **Fall 2023**: Stat 104 (Introduction to Quantitative Methods for Economics), Dr. Kevin Rader
