@@ -24,7 +24,7 @@ Given a permutation $\sigma \in \mathbb{S}_n$, let $\text{LIS}(\sigma)$ be the l
 
 ### Beatles Song of the Week, October 2-6, 2023
 
-**Martha My Dear:** [This song]([https://open.spotify.com/track/0JBvtprXP2Z0LP3jmzA7Xp?si=011e025090bf4719](https://open.spotify.com/track/1swmf4hFMJYRNA8Rq9PVaW?si=0230d09e57544620)) has such a great piano and violin part, and also Martha is Paul's Old English sheepdog! :')
+**Martha My Dear:** [This song](https://open.spotify.com/track/1swmf4hFMJYRNA8Rq9PVaW?si=0230d09e57544620) has such a great piano and violin part, and also Martha is Paul's Old English sheepdog! :')
 
 ## Teaching
 
