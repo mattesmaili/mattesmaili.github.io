@@ -17,13 +17,14 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/Matthew_Resume.pdf).
 
-### Theorem of the Week, September 25-29, 2023
+### Theorem of the Week, October 2-6, 2023
 
-$$\prod_{p \text{ prime}}\frac{p^2-1}{p^2+1} = \frac{2}{5}.$$ For a hint on how to prove this (it's quite straightforward), notice that $\frac{2}{5} = \frac{\pi^4}{90}\cdot\left(\frac{6}{\pi^2}\right)^2$!
+Given a permutation $\sigma \in \mathbb{S}_n$, let $\text{LIS}(\sigma)$ be the length of the longest increasing subsequence of $\sigma$. For example, $\text{LIS}(52314) = 3$, since its longest increasing subsequence contains $2, 3, 4$. Then $$|\{\sigma \in \mathbb{S}_n : \text{LIS}(\sigma) \leq k\}|
+= \mathbb E\left(\left|\text{tr}(U_k)\right|^{2n}\right),$$ where $U_k$ is a $k\times k$ Haar unitary matrix.
 
-### Beatles Song of the Week, September 25-29, 2023
+### Beatles Song of the Week, October 2-6, 2023
 
-**Baby, You're a Rich Man:** [This song](https://open.spotify.com/track/0JBvtprXP2Z0LP3jmzA7Xp?si=011e025090bf4719) has such an incredibly amusing bassline, deep and rich piano chords, and such poignant language. It was even used in the end credits of the Social Network (you know, that Facebook movie...)!  
+**Martha My Dear:** [This song]([https://open.spotify.com/track/0JBvtprXP2Z0LP3jmzA7Xp?si=011e025090bf4719](https://open.spotify.com/track/1swmf4hFMJYRNA8Rq9PVaW?si=0230d09e57544620)) has such a great piano and violin part, and also Martha is Paul's Old English sheepdog! :')
 
 ## Teaching
 
