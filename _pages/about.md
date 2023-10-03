@@ -19,7 +19,9 @@ You can find my CV [here](https://mattesmaili.github.io/files/Matthew_Resume.pdf
 
 ### Theorem of the Week, October 2-6, 2023
 
-Given a permutation $\sigma \in \mathbb{S}_n$, let $\text{LIS}(\sigma)$ be the length of the longest increasing subsequence of $\sigma$. For example, $\text{LIS}(52314) = 3$, since its longest increasing subsequence contains $2, 3, 4$. Then the number of $\sigma \in \mathbb{S}_n$ with $\text{LIS}(\sigma) \leq k$ is exactly $\mathbb E\left(|\text{tr}(U_k)|^{2n}\right)$, where $U_k$ is a $k\times k$ Haar unitary matrix.
+Let $p(z) \in \mathbb C[z]$ be a polynomial of degree three over $\mathbb C$ with roots $z_1$, $z_2$, and $z_3$. In other words, $p(z) = c(z - z_1)(z-z_2)(z-z_3)$ for some $c \in \mathbb C$. Also assume that the roots are not collinear, meaning they form a triangle $T$ in the complex plane. Then the foci of the unique ellipse inscribed inside $T$ which is tangent to each side at the midpoint are the roots of $p'(z)$.
+
+As a corollary, if $T$ is equilateral, then $p'\left(\frac{z_1+z_2+z_3}{3}\right) = 0$.
 
 ### Beatles Song of the Week, October 2-6, 2023
 
