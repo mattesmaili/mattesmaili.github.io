@@ -19,8 +19,7 @@ You can find my CV [here](https://mattesmaili.github.io/files/Matthew_Resume.pdf
 
 ### Theorem of the Week, October 2-6, 2023
 
-Given a permutation $\sigma \in \mathbb{S}_n$, let $\text{LIS}(\sigma)$ be the length of the longest increasing subsequence of $\sigma$. For example, $\text{LIS}(52314) = 3$, since its longest increasing subsequence contains $2, 3, 4$. Then $$\#\{\sigma \in \mathbb{S}_n : \text{LIS}(\sigma) \leq k\}
-= \mathbb E\left(|\text{tr}(U_k)|^{2n}\right),$$ where $U_k$ is a $k\times k$ Haar unitary matrix.
+Given a permutation $\sigma \in \mathbb{S}_n$, let $\text{LIS}(\sigma)$ be the length of the longest increasing subsequence of $\sigma$. For example, $\text{LIS}(52314) = 3$, since its longest increasing subsequence contains $2, 3, 4$. Then the number of $\sigma \in \mathbb{S}_n$ with $\text{LIS}(\sigma) \leq k\}$ is exactly $\mathbb E\left(|\text{tr}(U_k)|^{2n}\right)$, where $U_k$ is a $k\times k$ Haar unitary matrix.
 
 ### Beatles Song of the Week, October 2-6, 2023
 
