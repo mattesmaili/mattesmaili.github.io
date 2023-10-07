@@ -15,7 +15,7 @@ Outside of class, I am interested in lots of different things! I love playing th
 
 Please feel free to reach out to me if you want to talk about mathematics or anything else above! :^)
 
-You can find my CV [here](https://mattesmaili.github.io/files/Matthew_Resume.pdf).
+You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
 ### Theorem of the Week, October 9-13, 2023
 
