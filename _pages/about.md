@@ -17,15 +17,19 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/Matthew_Resume.pdf).
 
-### Theorem of the Week, October 2-6, 2023
+### Theorem of the Week, October 9-13, 2023
 
-Let $p(z) \in \mathbb C[z]$ be a polynomial of degree three over $\mathbb C$ with roots $z_1$, $z_2$, and $z_3$. In other words, $p(z) = c(z - z_1)(z-z_2)(z-z_3)$ for some $c \in \mathbb C$. Also assume that the roots are not collinear, meaning they form a triangle $T$ in the complex plane. Then the foci of the unique ellipse inscribed inside $T$ which is tangent to each side at the midpoint are the roots of $p'(z)$.
+The smallest rational side lengths of a right-angled triangle with area $157$ are
 
-As a corollary, if $T$ is equilateral, then $p'\left(\frac{z_1+z_2+z_3}{3}\right) = 0$.
+$411340519227716149383203/21666555693714761309610$
 
-### Beatles Song of the Week, October 2-6, 2023
+$6803298487826435051217540/411340519227716149383203$
 
-**Martha My Dear:** [This song](https://open.spotify.com/track/1swmf4hFMJYRNA8Rq9PVaW?si=0230d09e57544620) has such a great piano and violin part, and also Martha is Paul's Old English sheepdog! :')
+$224403517704336969924557513090674863160948472041/8912332268928859588025535178967163570016480830$.
+
+### Beatles Song of the Week, October 9-13, 2023
+
+**Rain:** Did you know that [this song](https://open.spotify.com/track/3ZZ7z7hgG9PHaCW4CYyZiI?si=ed30deddb38448dd) was actually recorded almost twice as fast and then slowed down for a psychedelic effect? How amazing is that!!!
 
 ## Teaching
 
