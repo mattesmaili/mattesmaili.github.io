@@ -17,19 +17,13 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
-### Theorem of the Week, October 9-13, 2023
+### Theorem of the Week, October 16-20, 2023
 
-The smallest rational side lengths of a right-angled triangle with area $157$ are
+Given a triangle $T$, its [orthocenter](https://en.wikipedia.org/wiki/Altitude_(triangle)#Orthocenter), [circumcenter](https://en.wikipedia.org/wiki/Circumcircle#Circumcenter_coordinates), and [centroid](https://en.wikipedia.org/wiki/Centroid) all lie on a single line, called the [Euler line](https://en.wikipedia.org/wiki/Euler_line)!
 
-$411340519227716149383203/21666555693714761309610$
+### Beatles Song of the Week, October 16-20, 2023
 
-$6803298487826435051217540/411340519227716149383203$
-
-$224403517704336969924557513090674863160948472041/8912332268928859588025535178967163570016480830$
-
-### Beatles Song of the Week, October 9-13, 2023
-
-**Rain:** Did you know that [this song](https://open.spotify.com/track/3ZZ7z7hgG9PHaCW4CYyZiI?si=ed30deddb38448dd) was actually recorded almost twice as fast and then slowed down for a psychedelic effect? How amazing is that!!!
+**If I Needed Someone:** Did you know that [this song](https://open.spotify.com/track/7C6hdDIz90Uf5YmdZnYbJJ?si=456d3dd2546544d2) was George Harrison's attempt to sound like The Byrds? Not only did he succeed, I think it sounds better than their entire catalog (except maybe Turn! Turn! Turn!)...
 
 ## Teaching
 
