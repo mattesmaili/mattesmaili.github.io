@@ -17,17 +17,18 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
-### Theorem of the Week, October 16-20, 2023
+### Theorem of the Week, October 23-27, 2023
 
-Given a triangle $T$, its [orthocenter](https://en.wikipedia.org/wiki/Altitude_(triangle)#Orthocenter), [circumcenter](https://en.wikipedia.org/wiki/Circumcircle#Circumcenter_coordinates), and [centroid](https://en.wikipedia.org/wiki/Centroid) all lie on a single line, called the [Euler line](https://en.wikipedia.org/wiki/Euler_line)!
+$$\frac{1}{\pi} = \frac{2\sqrt{2}}{9801}\sum_{k=0}^\infty\frac{(4k)!(1103+26390k)}{(k!)^396^{4k}}.$$
 
-### Beatles Song of the Week, October 16-20, 2023
+### Beatles Song of the Week, October 23-27, 2023
 
-**If I Needed Someone:** Did you know that [this song](https://open.spotify.com/track/7C6hdDIz90Uf5YmdZnYbJJ?si=456d3dd2546544d2) was George Harrison's attempt to sound like The Byrds? Not only did he succeed, I think it sounds better than their entire catalog (except maybe Turn! Turn! Turn!)...
+**Julia:** Did you know that [this song](https://open.spotify.com/track/5FnpXVgDOk2sLT58qM22Of?si=541908710b84486c) has a fingerpicking style ([Travis picking](https://acousticguitar.com/what-is-travis-picking/)) that was claimed by two different people to have been taught to John Lennon!?
 
 ## Teaching
 
 • **Fall 2023**: Stat 104 (Introduction to Quantitative Methods for Economics), Dr. Kevin Rader
+• **Spring 2024**: Stat 100 (Introduction to Statistics and Data Science), Dr. Kelly McConville
 
 ## Publications
 
