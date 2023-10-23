@@ -19,7 +19,7 @@ You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
 ### Theorem of the Week, October 23-27, 2023
 
-$$\frac{1}{\pi} = \frac{2\sqrt{2}}{9801}\sum_{k=0}^\infty\frac{(4k)!(1103+26390k)}{(k!)^396^{4k}}.$$
+$$\frac{1}{\pi} = \frac{2\sqrt{2}}{9801}\sum_{k=0}^\infty\frac{(4k)!(1103+26390k)}{(k!)^4396^{4k}}.$$
 
 ### Beatles Song of the Week, October 23-27, 2023
 
