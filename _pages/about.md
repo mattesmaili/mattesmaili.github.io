@@ -27,8 +27,8 @@ $$\frac{1}{\pi} = \frac{2\sqrt{2}}{9801}\sum_{k=0}^\infty\frac{(4k)!(1103+26390k
 
 ## Teaching
 
-• **Fall 2023**: Stat 104 (Introduction to Quantitative Methods for Economics), Dr. Kevin Rader
-• **Spring 2024**: Stat 100 (Introduction to Statistics and Data Science), Dr. Kelly McConville
+• **Fall 2023**: Stat 104 (Introduction to Quantitative Methods for Economics), [Dr. Kevin Rader](https://statistics.fas.harvard.edu/people/kevin-rader)
+• **Spring 2024**: Stat 149 (Introduction to Generalized Linear Models), [Dr. Mark Glickman](http://www.glicko.net/)
 
 ## Publications
 
