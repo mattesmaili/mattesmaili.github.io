@@ -17,13 +17,13 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
-### Theorem of the Week, October 23-27, 2023
+### Theorem of the Week, October 30-November 3, 2023
 
-$$\frac{1}{\pi} = \frac{2\sqrt{2}}{9801}\sum_{k=0}^\infty\frac{(4k)!(1103+26390k)}{(k!)^4396^{4k}}.$$
+Let $P$ be a polygon sitting in $\mathbb R^2$ with all vertices lying on $\mathbb Z^2$. Let $i$ be the number of elements of $\mathbb Z^2$ inside of $P$, and $b$ the number of elements of $\mathbb Z^2$ on the boundary of $P$. Then $\text{Area}(P) = i + \frac{b}{2} - 1$. How crazy is that!?
 
-### Beatles Song of the Week, October 23-27, 2023
+### Beatles Song of the Week, October 30-November 3, 2023
 
-**Julia:** Did you know that [this song](https://open.spotify.com/track/5FnpXVgDOk2sLT58qM22Of?si=541908710b84486c) has a fingerpicking style ([Travis picking](https://acousticguitar.com/what-is-travis-picking/)) that was claimed by two different people to have been taught to John Lennon!?
+**Now and Then:** Holy crap, the last new Beatles song ever comes out this Thursday!!! Check out [the trailer for it](https://www.youtube.com/watch?v=KgFTpwB_uII) here. The story goes that they wanted to add this song to their anthology projects in 1995, but George Harrison did not like it, mainly due to them not being able to extract John's vocals from his piano demo in the 70s. Now with new AI technology, it is possible!
 
 ## Teaching
 
