@@ -19,7 +19,7 @@ You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
 ### Theorem of the Week, November 6-10, 2023
 
-Let $S$ be the set of all $a^b$ with $a, b \in \mathbb Z$ and $a, b \geq 2\}$. Then the *only* two elements of $S$ which are one apart from each other are $2^3 = 8$ and $3^2 = 9$. Wow!!!
+Let $S$ be the set of all $a^b$ with $a, b \in \mathbb Z$ and $a, b \geq 2$. Then the *only* two elements of $S$ which are one apart from each other are $2^3 = 8$ and $3^2 = 9$. Wow!!!
 
 ### Beatles Song of the Week, November 6-10, 2023
 
