@@ -23,7 +23,7 @@ Choose four points uniformly at random from the unit cube $[0,1]^3$. Then the ex
 
 ### Beatles Song of the Week, November 13-17, 2023
 
-**I Me Mine:** When talking about the Beatles new single, Kyla (another PhD student in my cohort) mentioned that [this song]([https://open.spotify.com/track/3T4Kt51PV4k8tx6YCtBgcl?si=dce216699221433b](https://open.spotify.com/track/2BMqay80iBzZTa608Y1eG1?si=d0e16c33abdf479f)) was one of her favorite Beatles songs! 
+**I Me Mine:** When talking about the Beatles new single, Kyla (another PhD student in my cohort) mentioned that [this song](https://open.spotify.com/track/2BMqay80iBzZTa608Y1eG1?si=d0e16c33abdf479f) was one of her favorite Beatles songs! 
 
 ## Teaching
 
