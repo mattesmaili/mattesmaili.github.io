@@ -17,13 +17,13 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
-### Theorem of the Week, November 6-10, 2023
+### Theorem of the Week, November 13-17, 2023
 
-Let $S$ be the set of all $a^b$ with $a, b \in \mathbb Z$ and $a, b \geq 2$. Then the *only* two elements of $S$ which are one apart from each other are $2^3 = 8$ and $3^2 = 9$. Wow!!!
+Choose four points uniformly at random from the unit cube $[0,1]^3$. Then the expected volume of the tetrahedron that they form is $$\mathbb{E}(V_T) = \frac{3977}{216000} - \frac{\pi^2}{2160}.$$
 
-### Beatles Song of the Week, November 6-10, 2023
+### Beatles Song of the Week, November 13-17, 2023
 
-**Good Night:** [This song](https://open.spotify.com/track/3T4Kt51PV4k8tx6YCtBgcl?si=dce216699221433b) is so melancholy, I love it! Apparently Ringo sang it to help John's son Julian fall asleep :')
+**I Me Mine:** When talking about the Beatles new single, Kyla (another PhD student in my cohort) mentioned that [this song]([https://open.spotify.com/track/3T4Kt51PV4k8tx6YCtBgcl?si=dce216699221433b](https://open.spotify.com/track/2BMqay80iBzZTa608Y1eG1?si=d0e16c33abdf479f)) was one of her favorite Beatles songs! 
 
 ## Teaching
 
