@@ -21,6 +21,8 @@ You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
 Choose four points uniformly at random from the unit cube $[0,1]^3$. Then the expected volume of the tetrahedron that they form is $$\mathbb{E}(V_T) = \frac{3977}{216000} - \frac{\pi^2}{2160}.$$
 
+Isn't that ridiculous!? See [Zinani 2003](https://link.springer.com/article/10.1007/s00605-002-0531-y) for a neat proof.
+
 ### Beatles Song of the Week, November 13-17, 2023
 
 **I Me Mine:** When talking about the Beatles new single, Kyla (another PhD student in my cohort) mentioned that [this song](https://open.spotify.com/track/2BMqay80iBzZTa608Y1eG1?si=d0e16c33abdf479f) was one of her favorite Beatles songs! 
