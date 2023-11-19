@@ -19,7 +19,7 @@ You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
 ### Theorem of the Week, November 20-24, 2023
 
-$$\int_{\mathbb R}\frac{\cos(x)}{(x^2+1)^2}\,\text{d}x = \frac{\pi}{e}.$$
+$$\int_{\mathbb R}\frac{\cos(x)}{(x^2+1)^2}\text{d}x = \frac{\pi}{e}.$$
 
 ### Beatles Song of the Week, November 20-24, 2023
 
