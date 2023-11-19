@@ -17,15 +17,13 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
-### Theorem of the Week, November 13-17, 2023
+### Theorem of the Week, November 20-24, 2023
 
-Choose four points uniformly at random from the unit cube $[0,1]^3$. Then the expected volume of the tetrahedron that they form is $$\mathbb{E}(V_T) = \frac{3977}{216000} - \frac{\pi^2}{2160}.$$
+$$\int_{\mathbb R}]frac{\cos(x)}{(x^2+1)^2}\,\text{d}x = \frac{\pi}{e}.$$
 
-Isn't that ridiculous!? See [Zinani 2003](https://link.springer.com/article/10.1007/s00605-002-0531-y) for a neat proof.
+### Beatles Song of the Week, November 20-24, 2023
 
-### Beatles Song of the Week, November 13-17, 2023
-
-**I Me Mine:** When talking about the Beatles new single, Kyla (another PhD student in my cohort) mentioned that [this song](https://open.spotify.com/track/2BMqay80iBzZTa608Y1eG1?si=d0e16c33abdf479f) was one of her favorite Beatles songs! 
+**Flying:** [This song](https://open.spotify.com/track/1itLKsCWHtLnxALkgBk1Fa?si=47de0a73132c413d) is such a great instrumental :)
 
 ## Teaching
 
