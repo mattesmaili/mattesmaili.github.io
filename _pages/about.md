@@ -17,11 +17,11 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
-### Theorem of the Week, November 20-24, 2023
+### Theorem of the Week, November 27-December 1, 2023
 
 $$22\arctan\left(\frac{24478}{873121}\right) + 17\arctan\left(\frac{685601}{69049993}\right) = \frac{\pi}{4}.$$
 
-### Beatles Song of the Week, November 20-24, 2023
+### Beatles Song of the Week, November 27-December 1, 2023
 
 **I'm Only Sleeping:** [This song](https://open.spotify.com/track/2ylCrFiBu98SC0vFfaCent?si=d013e41850464379) has one of my favorite lines: Everybody seems to think I'm lazy \\ I don't mind, I think they're crazy \\ Runnin' everywhere at such a speed \\ 'Til they find there's no need!
 
