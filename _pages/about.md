@@ -19,11 +19,11 @@ You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
 ### Theorem of the Week, November 20-24, 2023
 
-$$\int_{\mathbb R}\frac{\cos(x)}{(x^2+1)^2}\text{d}x = \frac{\pi}{e}.$$
+$$22\arctan\left(\frac{24478}{873121}\right) + 17\arctan\left(\frac{685601}{69049993}\right) = \frac{\pi}{4}.$$
 
 ### Beatles Song of the Week, November 20-24, 2023
 
-**Flying:** [This song](https://open.spotify.com/track/1itLKsCWHtLnxALkgBk1Fa?si=47de0a73132c413d) is such a great instrumental :)
+**I'm Only Sleeping:** [This song](https://open.spotify.com/track/2ylCrFiBu98SC0vFfaCent?si=d013e41850464379) has one of my favorite lines: Everybody seems to think I'm lazy \\ I don't mind, I think they're crazy \\ Runnin' everywhere at such a speed \\ 'Til they find there's no need!
 
 ## Teaching
 
