@@ -21,6 +21,7 @@ You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
 Let $B(t)$ be standard Brownian motion. Define the quantities 
 $$M = \max_{0 \leq t \leq 1}B(t),\ \ \ M_n = \max_{0 \leq k \leq n}B(k/n).$$
+
 Then $$E(M - M_n) = \frac{-\zeta(\tfrac{1}{2})}{\sqrt{2\pi n}} + O(\tfrac1n).$$
 
 ### Beatles Song of the Week, December 4-8, 2023
