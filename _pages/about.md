@@ -17,13 +17,18 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
-### Theorem of the Week, November 27-December 1, 2023
+### Theorem of the Week, December 4-8, 2023
 
-$$22\arctan\left(\frac{24478}{873121}\right) + 17\arctan\left(\frac{685601}{69049993}\right) = \frac{\pi}{4}.$$
+Let $B(t)$ be standard Brownian motion. Define the quantities 
+\begin{align*}
+M &= \max_{0 \leq t \leq 1}B(t)\\
+M_n &= \max_{0 \leq k \leq n}B(k/n).
+\end{align*}
+Then $$E(M - M_n) = \frac{-\zeta(\tfrac{1}{2})}{\sqrt{2\pi n}} + o(1/n).$$
 
-### Beatles Song of the Week, November 27-December 1, 2023
+### Beatles Song of the Week, December 4-8, 2023
 
-**I'm Only Sleeping:** [This song](https://open.spotify.com/track/2ylCrFiBu98SC0vFfaCent?si=d013e41850464379) has one of my favorite lines: Everybody seems to think I'm lazy \\ I don't mind, I think they're crazy \\ Runnin' everywhere at such a speed \\ 'Til they find there's no need!
+**Wonderful Christmastime:** Of course, [this song](https://open.spotify.com/track/4UoPux0RniULIV6eFrNphL?si=0ed0fe09861242b2) isn't actually a Beatles song but close enough ;) Happy Christmas to all!
 
 ## Teaching
 
