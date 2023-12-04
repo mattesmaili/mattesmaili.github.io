@@ -20,10 +20,7 @@ You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 ### Theorem of the Week, December 4-8, 2023
 
 Let $B(t)$ be standard Brownian motion. Define the quantities 
-\begin{align*}
-M &= \max_{0 \leq t \leq 1}B(t)\\
-M_n &= \max_{0 \leq k \leq n}B(k/n).
-\end{align*}
+$$M = \max_{0 \leq t \leq 1}B(t),\ \ \ M_n &= \max_{0 \leq k \leq n}B(k/n).$$
 Then $$E(M - M_n) = \frac{-\zeta(\tfrac{1}{2})}{\sqrt{2\pi n}} + o(1/n).$$
 
 ### Beatles Song of the Week, December 4-8, 2023
