@@ -17,16 +17,13 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
-### Theorem of the Week, December 4-8, 2023
+### Theorem of the Week, December 11-15, 2023
 
-Let $B(t)$ be standard Brownian motion. Define the quantities 
-$$M = \max_{0 \leq t \leq 1}B(t),\ \ \ M_n = \max_{0 \leq k \leq n}B(k/n).$$
+Let $n \in \mathbb{N}$. Then there exists $S \subseteq \mathbb{R}^n$ with $|S| = n+2$ such that for any $x, y \in S$, $\|x-y\|_2$ is an odd integer, if and only if $n \equiv 14\ (\text{mod } 16)$. How strange is that!
 
-Then $$E(M - M_n) = \frac{-\zeta(\tfrac{1}{2})}{\sqrt{2\pi n}} + O(\tfrac1n).$$
+### Song of the Week, December 11-15, 2023
 
-### Beatles Song of the Week, December 4-8, 2023
-
-**Wonderful Christmastime:** Of course, [this song](https://open.spotify.com/track/4UoPux0RniULIV6eFrNphL?si=0ed0fe09861242b2) isn't actually a Beatles song but close enough ;) Happy Christmas to all!
+**Run of the Mill:** George Harrison's first solo work when he left the Beatles is full of masterpieces he wasn't allowed to put on albums during his time as a Beatle. [This song](https://open.spotify.com/track/6sVqehqlRry0goIDS0D0IZ?si=4106ee05f09f4527) in particular is absolutely gorgeous and solidifies this album as the best post-breakup album to me!
 
 ## Teaching
 
