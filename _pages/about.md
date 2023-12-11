@@ -19,7 +19,7 @@ You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
 ### Theorem of the Week, December 11-15, 2023
 
-Let $n \in \mathbb{N}$. Then there exists $S \subseteq \mathbb{R}^n$ with $|S| = n+2$ such that for any $x, y \in S$, $\|x-y\|_2$ is an odd integer, if and only if $n \equiv 14\ (\text{mod } 16)$. How strange is that!
+Let $n \in \mathbb{N}$. Then there exists $S \subseteq \mathbb{R}^n$ with $\#S = n+2$ such that for any $x, y \in S$, $\lVert x-y \rVert_2$ is an odd integer, if and only if $n \equiv 14\ (\text{mod } 16)$. How strange is that!
 
 ### Song of the Week, December 11-15, 2023
 
