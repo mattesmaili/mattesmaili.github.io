@@ -17,14 +17,13 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
-### Theorem of the Week, December 11-15, 2023
+### Theorem of the Week, December 18-22, 2023
 
-Let $n \in \mathbb{N}$. Then there exists $S \subseteq \mathbb{R}^n$ with $n+2$ elements such that for any $x, y \in S$, $\lVert x-y \rVert_2$ is an odd integer, if and only if $n \equiv 14\ (\text{mod } 16)$. How strange is that!
+$$1+\frac{1}{1 \cdot 3}+\frac{1}{1 \cdot 3 \cdot 5}+\frac{1}{1 \cdot 3 \cdot 5 \cdot 7}+\cdots+\frac{1}{1+\frac{1}{1+\frac{2}{1+\frac{3}{1+\frac{4}{1+\ddots}}}}}=\sqrt{\frac{\pi e}{2}}.$$
 
-### Song of the Week, December 11-15, 2023
+### Song of the Week, December 18-22, 2023
 
-**Run of the Mill:** George Harrison's first solo work when he left the Beatles is full of masterpieces he wasn't allowed to put on albums during his time as a Beatle. [This song](https://open.spotify.com/track/6sVqehqlRry0goIDS0D0IZ?si=4106ee05f09f4527) in particular is absolutely gorgeous and solidifies this album as the best post-breakup album to me!
-
+**Break on Through (To the Other Side):** [This song](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM?si=7663e4fe82e84068) by the Doors has such a wonderful Latin influence in the drum pattern and chords! I love it.
 ## Teaching
 
 • **Fall 2023**: Stat 104 (Introduction to Quantitative Methods for Economics), [Dr. Kevin Rader](https://statistics.fas.harvard.edu/people/kevin-rader)
