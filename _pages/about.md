@@ -17,11 +17,11 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
-### Theorem of the Week, December 18-22, 2023
+### Theorem of the Month, December 2023
 
 $$1+\frac{1}{1 \cdot 3}+\frac{1}{1 \cdot 3 \cdot 5}+\frac{1}{1 \cdot 3 \cdot 5 \cdot 7}+\cdots+\frac{1}{1+\frac{1}{1+\frac{2}{1+\frac{3}{1+\frac{4}{1+\ddots}}}}}=\sqrt{\frac{\pi e}{2}}.$$
 
-### Song of the Week, December 18-22, 2023
+### Song of the Month, December 2023
 
 **Break on Through (To the Other Side):** [This song](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM?si=7663e4fe82e84068) by the Doors has such a wonderful Latin influence in the drum pattern and chords! I love it.
 ## Teaching
