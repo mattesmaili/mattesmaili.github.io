@@ -17,13 +17,15 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
-### Theorem of the Month, December 2023
+### Theorem of the Month, January 2024
 
-$$1+\frac{1}{1 \cdot 3}+\frac{1}{1 \cdot 3 \cdot 5}+\frac{1}{1 \cdot 3 \cdot 5 \cdot 7}+\cdots+\frac{1}{1+\frac{1}{1+\frac{2}{1+\frac{3}{1+\frac{4}{1+\ddots}}}}}=\sqrt{\frac{\pi e}{2}}.$$
+There is no continuous $f: \C^2 \to \C$ such that for every $b, c \in \C$, $f(b, c)$ is a root of $x^2 + bx + c = 0$. 
 
-### Song of the Month, December 2023
+### Song of the Month, January 2024
 
-**Break on Through (To the Other Side):** [This song](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM?si=7663e4fe82e84068) by the Doors has such a wonderful Latin influence in the drum pattern and chords! I love it.
+**Somebody Made For Me:** [This song](https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq?si=71ff3a979ec24028) by Emmit Rhodes sounds like a great Beatles song (and honestly, he has a cult following just of Beatles fans!). 
+
+
 ## Teaching
 
 • **Fall 2023**: Stat 104 (Introduction to Quantitative Methods for Economics), [Dr. Kevin Rader](https://statistics.fas.harvard.edu/people/kevin-rader)
