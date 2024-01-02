@@ -23,7 +23,7 @@ Let $f: \mathbb{C}^2 \to \mathbb{C}$ be constructed such that $f(b, c)$ is a roo
 
 ### Song of the Month, January 2024
 
-**Somebody Made For Me:** [This song](https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq?si=71ff3a979ec24028) by Emmit Rhodes sounds like a great Beatles song (and honestly, he has a cult following just of Beatles fans!). 
+**Somebody Made For Me:** [This song](https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq?si=71ff3a979ec24028) by Emmit Rhodes sounds like a great Beatles song (he has a cult following just of Beatles fans!). 
 
 
 ## Teaching
