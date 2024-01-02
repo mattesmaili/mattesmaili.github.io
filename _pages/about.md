@@ -19,7 +19,7 @@ You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
 ### Theorem of the Month, January 2024
 
-There is no continuous $f: \mathbb{C}^2 \to \mathbb{C}$ such that for every $b, c \in \mathbb{C}$, $f(b, c)$ is a root of $x^2 + bx + c = 0$. 
+Let $f: \mathbb{C}^2 \to \mathbb{C}$ be constructed such that $f(b, c)$ is a root of $x^2 + bx + c = 0$ for every $b, c \in \mathbb{C}$. Then, no matter how it is defined, $f$ cannot be continuous. 
 
 ### Song of the Month, January 2024
 
