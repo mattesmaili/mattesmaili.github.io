@@ -17,19 +17,18 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
-### Theorem of the Month, January 2024
+### Theorem of the Week, January 22-26, 2024
 
 Let $f: \mathbb{C}^2 \to \mathbb{C}$ be constructed such that $f(b, c)$ is a root of $x^2 + bx + c = 0$ for every $b, c \in \mathbb{C}$. Then, no matter how it is defined, $f$ cannot be continuous. 
 
-### Song of the Month, January 2024
+### Song of the Month, January 22-26, 2024
 
 **Somebody Made For Me:** [This song](https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq?si=71ff3a979ec24028) by Emmit Rhodes sounds like a great Beatles song (he has a cult following just of Beatles fans!). 
 
 
 ## Teaching
-
-• **Fall 2023**: Stat 104 (Introduction to Quantitative Methods for Economics), [Dr. Kevin Rader](https://statistics.fas.harvard.edu/people/kevin-rader)
 • **Spring 2024**: Stat 149 (Introduction to Generalized Linear Models), [Dr. Mark Glickman](http://www.glicko.net/)
+• **Fall 2023**: Stat 104 (Introduction to Quantitative Methods for Economics), [Dr. Kevin Rader](https://statistics.fas.harvard.edu/people/kevin-rader)
 
 ## Publications
 
