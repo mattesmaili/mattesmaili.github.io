@@ -28,6 +28,7 @@ Let $f: \mathbb{C}^2 \to \mathbb{C}$ be constructed such that $f(b, c)$ is a roo
 
 ## Teaching
 • **Spring 2024**: Stat 149 (Introduction to Generalized Linear Models), [Dr. Mark Glickman](http://www.glicko.net/)
+
 • **Fall 2023**: Stat 104 (Introduction to Quantitative Methods for Economics), [Dr. Kevin Rader](https://statistics.fas.harvard.edu/people/kevin-rader)
 
 ## Publications
