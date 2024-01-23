@@ -19,7 +19,7 @@ You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
 ### Theorem of the Week, January 22-26, 2024
 
-Let $f: \mathbb{C}^2 \to \mathbb{C}$ be constructed such that $f(b, c)$ is a root of $x^2 + bx + c = 0$ for every $b, c \in \mathbb{C}$. Then, no matter how it is defined, $f$ cannot be continuous. 
+$$\displaystyle\frac{1}{\pi^2} = \frac{32}{3}\sum_{n=0}^\infty \frac{(6n)!}{10^{6n+3}\cdot n!^6}(532n^2 + 126n + 9).$$
 
 ### Song of the Month, January 22-26, 2024
 
