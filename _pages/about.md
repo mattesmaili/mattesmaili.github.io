@@ -19,7 +19,7 @@ You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
 ### Theorem of the Week, January 29-February 2, 2024
 
-Let $r \in \mathbb{Q}^{>1}$ be a rational number larger than $1$. The **Beatty Sequence** for $r$ is given by $\mathcal{B}_r := (\lfloor r\rfloor, \lfloor 2r\rfloor, \lfloor 3r\rfloor, \ldots)$, which consists of the floor of each integer multiple of $r$. Well, for every $r \in \mathbb{Q}^{>1}$, there exists $s \in \mathbb{Q}^{>1}$ such that $\mathcal{B}_{r} \sqcup \mathcal{B}_s = \mathbb{Z}^{>0}$, i.e. the two sequences exactly partition the positive integers into two sets!
+Let $r \in \mathbb{Q}^{>1}$ be a rational number larger than $1$. The **Beatty Sequence** for $r$ is given by $\mathcal{B}(r) = (\lfloor r\rfloor, \lfloor 2r\rfloor, \lfloor 3r\rfloor, \ldots)$, which consists of the floor of each integer multiple of $r$. Well, for every $r \in \mathbb{Q}^{>1}$, there exists $s \in \mathbb{Q}^{>1}$ such that $\mathcal{B}(r) \sqcup \mathcal{B}(s) = \mathbb{Z}^{>0}$, i.e. the two sequences exactly partition the positive integers into two sets!
 
 
 ### Song of the Week, January 29-February 2, 2024
