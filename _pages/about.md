@@ -17,13 +17,14 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
-### Theorem of the Week, January 22-26, 2024
+### Theorem of the Week, January 29-February 2, 2024
 
-$$\displaystyle\frac{1}{\pi^2} = \frac{32}{3}\sum_{n=0}^\infty \frac{(6n)!}{10^{6n+3}\cdot n!^6}(532n^2 + 126n + 9).$$
+Let $r \in \mathbb{Q}^{>1}$ be a rational number larger than $1$. The **Beatty Sequence** for $r$ is given by $\mathcal{B}_r := (\lfloor r\rfloor, \lfloor 2r\rfloor, \lfloor 3r\rfloor, \ldots)$, which consists of the floor of each integer multiple of $r$. Well, for every $r \in \mathbb{Q}^{>1}$, there exists $s \in \mathbb{Q}^{>1}$ such that $\mathcal{B}_{r} \sqcup \mathcal{B}_s = \mathbb{Z}^{>0}$, i.e. the two sequences exactly partition the positive integers into two sets!
 
-### Song of the Month, January 22-26, 2024
 
-**Somebody Made For Me:** [This song](https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq?si=71ff3a979ec24028) by Emmit Rhodes sounds like a great Beatles song (he has a cult following just of Beatles fans!). 
+### Song of the Week, January 29-February 2, 2024
+
+**Girlfriend:** [This song](https://open.spotify.com/track/1nCV2d1RAch7t2kRmwet5N?si=67ef5d4a23ac4fa9) by Michael Jackson is such an underrated bop! I absolutely love the bass line and that little synthesizer that comes in at 0:10. 
 
 
 ## Teaching
