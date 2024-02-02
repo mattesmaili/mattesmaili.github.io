@@ -21,7 +21,7 @@ You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
 Let $r \in \mathbb{P}^{>1}$ be an irrational number larger than $1$. The **Beatty Sequence** for $r$ is given by $\mathcal{B}(r) = (\lfloor r\rfloor, \lfloor 2r\rfloor, \lfloor 3r\rfloor, \ldots)$, which consists of the floor of each integer multiple of $r$. Well, for every $r \in \mathbb{P}^{>1}$, there exists $s \in \mathbb{P}^{>1}$ such that $\mathcal{B}(r) \sqcup \mathcal{B}(s) = \mathbb{Z}^{>0}$, i.e. the two sequences exactly partition the positive integers into two sets! 
 
-As an example, $\mathcal{B}(\pi) = (3, 6, 9, 12, \ldots)$ and $\mathcal{B}(\tfrac{\pi}{\pi-1}) = (1, 2, 4, 5, 7, 8, \ldots)$. Isn't that neat! (Hint: it will always be the H\"older conjugate of $r$). 
+As an example, $\mathcal{B}(\pi) = (3, 6, 9, 12, \ldots)$ and $\mathcal{B}(\tfrac{\pi}{\pi-1}) = (1, 2, 4, 5, 7, 8, \ldots)$. Isn't that neat! (Hint: it will always be the Holder conjugate of $r$). 
 
 
 ### Song of the Week, January 29-February 2, 2024
