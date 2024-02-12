@@ -17,16 +17,14 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
-### Theorem of the Week, January 29-February 2, 2024
+### Theorem of the Week, February 12-16, 2024
 
-Let $r \in \mathbb{P}^{>1}$ be an irrational number larger than $1$. The **Beatty Sequence** for $r$ is given by $\mathcal{B}(r) = (\lfloor r\rfloor, \lfloor 2r\rfloor, \lfloor 3r\rfloor, \ldots)$, which consists of the floor of each integer multiple of $r$. Well, for every $r \in \mathbb{P}^{>1}$, there exists $s \in \mathbb{P}^{>1}$ such that $\mathcal{B}(r) \sqcup \mathcal{B}(s) = \mathbb{Z}^{>0}$, i.e. the two sequences exactly partition the positive integers into two sets! 
-
-As an example, $\mathcal{B}(\pi) = (3, 6, 9, 12, \ldots)$ and $\mathcal{B}(\tfrac{\pi}{\pi-1}) = (1, 2, 4, 5, 7, 8, \ldots)$. Isn't that neat! (Hint: it will always be the Holder conjugate of $r$). 
+Let $A = (a_{ij})$ be a real $n\times n$ matrix. Define the quantity $\alpha := \max_{1 \leq i, j \leq n}\frac12|a_{ij} - a_{ji}|$. Then for all eigenvalues $\lambda$ of $A$, we have $|\text{Im}(\lambda)| \leq \alpha\sqrt{\frac{n(n-1)}{2}}$. 
 
 
-### Song of the Week, January 29-February 2, 2024
+### Song of the Week, February 12-16, 2024
 
-**Girlfriend:** [This song](https://open.spotify.com/track/1nCV2d1RAch7t2kRmwet5N?si=67ef5d4a23ac4fa9) by Michael Jackson is such an underrated bop! I absolutely love the bass line and that little synthesizer that comes in at 0:10. 
+**Here Comes the Moon:** Who would have thought George Harrison would write [a song](https://open.spotify.com/track/0bIdIeFq2cOUAxGo5AHBI0?si=264a24f4b0cd4c82by) about the moon too: "[O]ther songwriters had had ten years to write 'Here Comes the Moon' after 'Here Comes the Sun', but nobody else wrote it, [so] I might as well do it meself."
 
 
 ## Teaching
