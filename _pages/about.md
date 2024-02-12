@@ -19,7 +19,7 @@ You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
 ### Theorem of the Week, February 12-16, 2024
 
-Let $A = (a_{ij})$ be a real $n\times n$ matrix. Define the quantity $\alpha := \max_{1 \leq i, j \leq n}\frac12|a_{ij} - a_{ji}|$. Then for all eigenvalues $\lambda$ of $A$, we have $|\text{Im}(\lambda)| \leq \alpha\sqrt{\frac{n(n-1)}{2}}$. 
+Let $A = (a_{ij})$ be a real $n\times n$ matrix. Define the quantity $$\alpha := \max_{1 \leq i, j \leq n}\frac12|a_{ij} - a_{ji}|.$$ Then for all eigenvalues $\lambda$ of $A$, we have $$|\text{Im}(\lambda)| \leq \alpha\sqrt{\frac{n(n-1)}{2}}.$$ 
 
 
 ### Song of the Week, February 12-16, 2024
