@@ -25,7 +25,7 @@ Notice that, as a corollary, a symmetric matrix must have all real eigenvalues!
 
 ### Song of the Week, February 12-16, 2024
 
-**Here Comes the Moon:** Who would have thought George Harrison would write [a song](https://open.spotify.com/track/0bIdIeFq2cOUAxGo5AHBI0?si=264a24f4b0cd4c82by) about the moon too: "[O]ther songwriters had had ten years to write 'Here Comes the Moon' after 'Here Comes the Sun', but nobody else wrote it, [so] I might as well do it meself."
+**Here Comes the Moon:** Who would have thought George Harrison would write [a song](https://open.spotify.com/track/0bIdIeFq2cOUAxGo5AHBI0?si=264a24f4b0cd4c82by) about the moon too: "[O]ther songwriters had had ten years to write Here Comes the Moon after Here Comes the Sun, but nobody else wrote it, so I might as well do it meself."
 
 
 ## Teaching
