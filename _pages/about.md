@@ -17,13 +17,13 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
-### Theorem of the Week, February 12-16, 2024
+### Theorem of the Week, February 26-March 1, 2024
 
 Let $A = (a_{ij})$ be a real $n\times n$ matrix. Define the quantity $$\alpha := \max_{1 \leq i, j \leq n}\frac12|a_{ij} - a_{ji}|.$$ Then for all eigenvalues $\lambda$ of $A$, we have $$|\text{Im}(\lambda)| \leq \alpha\sqrt{\frac{n(n-1)}{2}}.$$ 
 
 Notice that, as a corollary, a symmetric matrix must have all real eigenvalues!
 
-### Song of the Week, February 12-16, 2024
+### Song of the Week, February 26-March 1, 2024
 
 **Here Comes the Moon:** Who would have thought George Harrison would write [a song](https://open.spotify.com/track/0bIdIeFq2cOUAxGo5AHBI0?si=264a24f4b0cd4c82by) about the moon too: "[O]ther songwriters had had ten years to write Here Comes the Moon after Here Comes the Sun, but nobody else wrote it, so I might as well do it meself."
 
