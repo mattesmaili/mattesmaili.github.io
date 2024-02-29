@@ -19,9 +19,7 @@ You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
 ### Theorem of the Week, February 26-March 1, 2024
 
-Let $A = (a_{ij})$ be a real $n\times n$ matrix. Define the quantity $$\alpha = \max_{1 \leq i, j \leq n}\frac12|a_{ij} - a_{ji}|.$$ Then for all eigenvalues $\lambda$ of $A$, we have $$|\text{Im}(\lambda)| \leq \alpha\sqrt{\frac{n(n-1)}{2}}.$$ 
-
-Notice that, as a corollary, a symmetric matrix must have all real eigenvalues!
+Let $n$ be a non-palindrome such that $n^3$ is a palindrome. Then $n = 2201$ is the only currently known possible value of $n$ ($2201^3 = 10662526601$). 
 
 ### Song of the Week, February 26-March 1, 2024
 
