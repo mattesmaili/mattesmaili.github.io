@@ -19,7 +19,7 @@ You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
 ### Theorem of the Week, March 4-8, 2024
 
-There exists a constant (\textit{Khinchin's constant}) $$K := \prod_{n=1}^\infty\left(1 + \frac{1}{n(n+2)}\right)^{\log_2(n)} \approx 2.68545$$ such that for almost every $x \in \R$, if $x = [a_0; a_1, a_2, \ldots]$, then $$\lim_{n\to\infty}\left(\prod_{i=1}^na_i\right)^{1/n} = K.$$
+There exists a constant (*Khinchin's constant*) $$K := \prod_{n=1}^\infty\left(1 + \frac{1}{n(n+2)}\right)^{\log_2(n)} \approx 2.68545$$ such that for almost every $x \in \mathbb R$, if $x = [a_0; a_1, a_2, \ldots]$, then $$\lim_{n\to\infty}\left(\prod_{i=1}^na_i\right)^{1/n} = K.$$
 
 ### Song of the Week, March 4-8, 2024
 
