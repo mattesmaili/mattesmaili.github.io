@@ -17,13 +17,13 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
-### Theorem of the Week, February 26-March 1, 2024
+### Theorem of the Week, March 4-8, 2024
 
-Let $n$ be a non-palindrome such that $n^3$ is a palindrome. Then $n = 2201$ is the only currently known possible value of $n$ ($2201^3 = 10662526601$). 
+There exists a constant (\textit{Khinchin's constant}) $$K := \prod_{n=1}^\infty\left(1 + \frac{1}{n(n+2)}\right)^{\log_2(n)} \approx 2.68545$$ such that for almost every $x \in \R$, if $x = [a_0; a_1, a_2, \ldots]$, then $$\lim_{n\to\infty}\left(\prod_{i=1}^na_i\right)^{1/n} = K.$$
 
-### Song of the Week, February 26-March 1, 2024
+### Song of the Week, March 4-8, 2024
 
-**Here Comes the Moon:** Who would have thought George Harrison would write [a song](https://open.spotify.com/track/0bIdIeFq2cOUAxGo5AHBI0?si=264a24f4b0cd4c82by) about the moon too: "[O]ther songwriters had had ten years to write Here Comes the Moon after Here Comes the Sun, but nobody else wrote it, so I might as well do it meself."
+**Mother Nature's Son:** When I first heard [this song](https://open.spotify.com/track/6TjUg1cTUzWHbal6yQAi7c?si=3548e4bdb6624d69), I thought the intro was someone's bad rendition of Michelle! Little did I know it is an absolutely gorgeous song off the White Album! :)
 
 
 ## Teaching
