@@ -23,7 +23,7 @@ There exists a constant (*Khinchin's constant*) $$K := \prod_{n=1}^\infty\left(1
 
 ### Song of the Week, March 4-8, 2024
 
-**Mother Nature's Son:** When I first heard [this song](https://open.spotify.com/track/6TjUg1cTUzWHbal6yQAi7c?si=3548e4bdb6624d69), I thought the intro was someone's bad rendition of Michelle! Little did I know it is an absolutely gorgeous song off the White Album! :)
+**Mother Nature's Son:** When I first heard [this song](https://open.spotify.com/track/6TjUg1cTUzWHbal6yQAi7c?si=3548e4bdb6624d69), I thought the intro was someone's bad rendition of [Michelle](https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS?si=b9af231d080a4047)! Little did I know it is an absolutely gorgeous song off the White Album! :)
 
 
 ## Teaching
