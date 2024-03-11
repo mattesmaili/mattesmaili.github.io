@@ -19,7 +19,7 @@ You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
 ### Theorem of the Week, March 11-15, 2024
 
-Let $X_1, \ldots, X_5$ be 5 i.i.d. standard Normals. Then the minimum of them has expected value $\frac{5}{2\pi^{3/2}}\text{arccos}(-23/27)$. Isn't that amazing! Where on earth does arccosine come from?
+Let $X_1, \ldots, X_5$ be 5 i.i.d. standard Normals. Then the minimum of them has expected value $\displaystyle\frac{5}{2\pi^{3/2}}\text{arccos}(-23/27)$. Isn't that amazing! Where on earth does arccosine come from?
 
 ### Song of the Week, March 11-15, 2024
 
