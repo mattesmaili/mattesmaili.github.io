@@ -17,13 +17,13 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
-### Theorem of the Week, March 4-8, 2024
+### Theorem of the Week, March 11-15, 2024
 
-There exists a constant (*Khinchin's constant*) $$K := \prod_{n=1}^\infty\left(1 + \frac{1}{n(n+2)}\right)^{\log_2(n)} \approx 2.68545$$ such that for almost every $x \in \mathbb R$, if $x = [a_0; a_1, a_2, \ldots]$, then $$\lim_{n\to\infty}\left(\prod_{i=1}^na_i\right)^{1/n} = K.$$
+Let $X_1, \ldots, X_5$ be 5 i.i.d. standard Normals. Then the minimum of them has expected value $\frac{5}{2\pi^{3/2}}\text{arccos}(-23/27)$. Isn't that amazing! Where on earth does arccosine come from?
 
-### Song of the Week, March 4-8, 2024
+### Song of the Week, March 11-15, 2024
 
-**Mother Nature's Son:** When I first heard [this song](https://open.spotify.com/track/6TjUg1cTUzWHbal6yQAi7c?si=3548e4bdb6624d69), I thought the intro was someone's bad rendition of [Michelle](https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS?si=b9af231d080a4047)! Little did I know it is an absolutely gorgeous song off the White Album! :)
+**Fourth Time Around:** This beautiful [Bob Dylan song](https://open.spotify.com/track/4i4oDSWluhViEzuYIZYtmJ?si=408e14587fca4527) was a response to John Lennon's Norwegian Wood which was itself a respectful imitation of Dylan's storytelling genius! I love them both.
 
 
 ## Teaching
