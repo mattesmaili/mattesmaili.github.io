@@ -17,13 +17,13 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
-### Theorem of the Week, March 11-15, 2024
+### Theorem of the Week, March 18-22, 2024
 
-The theorem is that $\pi^{e} < e^{\pi}$, but the coolness lies in the proof: consider the function $f(x) = 1/x$. Clearly, the area under the curve from $x = e$ to $x=\pi$ is less than the area of the rectangle from $e$ to $\pi$ with height $1/e$, since that rectangle contains the area under the curve. Thus we get $$\int_{e}^\pi\frac{1}{x}\text{d}x < (\pi - e)\frac{1}{e} \implies \log(\pi) < \frac{\pi}{e} \implies \pi^{e} < e^{\pi}.$$
+The theorem is that $\pi^{e} < e^{\pi}$, but the coolness lies in the proof: consider the function $f(x) = 1/x$. Clearly, the area under the curve from $x = e$ to $x=\pi$ is less than the area of the rectangle from $e$ to $\pi$ with height $1/e$, since that rectangle contains the area under the curve. Thus we get $$\int_{e}^\pi\frac{1}{x}\text{d}x < (\pi - e)\frac{1}{e} \implies \log(\pi) < \frac{\pi}{e} \implies \pi^{e} < e^{\pi}.$$ How neat!
 
-### Song of the Week, March 11-15, 2024
+### Song of the Week, March 18-22, 2024
 
-**Fourth Time Around:** This beautiful [Bob Dylan song](https://open.spotify.com/track/4i4oDSWluhViEzuYIZYtmJ?si=408e14587fca4527) was a response to John Lennon's Norwegian Wood which was itself a respectful imitation of Dylan's storytelling genius! I love them both.
+**(Ummmm, Oh Yeah) Dearest:** This beautiful [Buddy Holly song](https://open.spotify.com/track/6NDg4EyQE5lalcCEEpytsM?si=320eccbec50844ae) is one of my favorites of his! Everytime I think about how his life was taken so soon at only 22 it breaks my heart to imagine the beautiful music he would have made in the 60's and 70's. 
 
 
 ## Teaching
