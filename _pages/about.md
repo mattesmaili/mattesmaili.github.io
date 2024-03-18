@@ -19,7 +19,7 @@ You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
 ### Theorem of the Week, March 11-15, 2024
 
-The theorem is that $\pi^{e} < e^{\pi}$, but the coolness lies in the proof: consider the function $f(x) = 1/x$. Clearly, the area under the curve from $x = e$ to $x=\pi$ is less than the area of the rectangle from $e$ to $\pi$ with height $1/e$, since that rectangle contains the area under the curve. Thus we get $$\int_{e}^\pi\frac{1}{x}\,\text{d}x < (\pi - e)\frac{1}{e} \implies \log(\pi) < \frac{\pi}{e} \implies \pi^{e} < e^{\pi}.$$
+The theorem is that $\pi^{e} < e^{\pi}$, but the coolness lies in the proof: consider the function $f(x) = 1/x$. Clearly, the area under the curve from $x = e$ to $x=\pi$ is less than the area of the rectangle from $e$ to $\pi$ with height $1/e$, since that rectangle contains the area under the curve. Thus we get $$\int_{e}^\pi\frac{1}{x}\text{d}x < (\pi - e)\frac{1}{e} \implies \log(\pi) < \frac{\pi}{e} \implies \pi^{e} < e^{\pi}.$$
 
 ### Song of the Week, March 11-15, 2024
 
