@@ -17,13 +17,13 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
-### Theorem of the Week, March 18-22, 2024
+### Theorem of the Week, March 15-29, 2024
 
-The theorem is that $\pi^{e} < e^{\pi}$, but the coolness lies in the proof: consider the function $f(x) = 1/x$. Clearly, the area under the curve from $x = e$ to $x=\pi$ is less than the area of the rectangle from $e$ to $\pi$ with height $1/e$, since that rectangle contains the area under the curve. Thus we get $$\int_{e}^\pi\frac{1}{x}\text{d}x < (\pi - e)\frac{1}{e} \implies \log(\pi) < \frac{\pi}{e} \implies \pi^{e} < e^{\pi}.$$ How neat!
+For $x> 0$, let us define $\pi(x) = \{p \text{ prime} : p \leq x\}$ and also $m(x) = \{p \in \pi(x) : p \text{ divides } 2^n+1 \text{ for some } n \geq 1\}$. Then guess what... $\lim_{x\to\infty}\frac{|\pi(x)|}{|m(x)|} = \frac{17}{24}$. This is essentially saying that the ``density" of primes which divide numbers of the form $2^n + 1$ is $tfrac{17}{24} = 70.8\overline{3}\%$ of all the primes!
 
-### Song of the Week, March 18-22, 2024
+### Song of the Week, March 25-29, 2024
 
-**(Ummmm, Oh Yeah) Dearest:** This beautiful [Buddy Holly song](https://open.spotify.com/track/6NDg4EyQE5lalcCEEpytsM?si=320eccbec50844ae) is one of my favorites of his! Everytime I think about how his life was taken so soon at only 22 it breaks my heart to imagine the beautiful music he would have made in the 60's and 70's. 
+**Harvest Moon:** In celebration of Joni Mitchell and Neil Young being back on Spotify this week, I thought it only made sense to include [this beautiful love song](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk?si=8fa77d9ca5ca41c2) as my song of the week!
 
 
 ## Teaching
