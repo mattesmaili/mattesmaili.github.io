@@ -19,7 +19,7 @@ You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
 ### Theorem of the Week, March 15-29, 2024
 
-For $x> 0$, let us define $\pi(x)$ to be all primes $p \leq x$, and also define $m(x)$ as $all p \in \pi(x)$ such that $p$ divides $2^n+1$ for some integer $n\geq1$. Then guess what... $\lim_{x\to\infty}\frac{|\pi(x)|}{|m(x)|} = \frac{17}{24}$. This is essentially saying that the "density" of primes which divide numbers of the form $2^n + 1$ is $\tfrac{17}{24} = 70.8\overline{3}$ percent of all the primes!
+For $x> 0$, let us define $\pi(x)$ to be all primes $p \leq x$, and also define $m(x)$ as all $p \in \pi(x)$ such that $p$ divides $2^n+1$ for some integer $n\geq1$. Then guess what... $\lim_{x\to\infty}\frac{|\pi(x)|}{|m(x)|} = \frac{17}{24}$. This is essentially saying that the "density" of primes which divide numbers of the form $2^n + 1$ is $\tfrac{17}{24} = 70.8\overline{3}$ percent of all the primes!
 
 ### Song of the Week, March 25-29, 2024
 
