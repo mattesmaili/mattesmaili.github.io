@@ -17,7 +17,7 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
-### Theorem of the Week, March 15-29, 2024
+### Theorem of the Week, March 25-29, 2024
 
 At least one of $\zeta(k)$, $k = 5, 7, 9, 11$, is irrational.
 
