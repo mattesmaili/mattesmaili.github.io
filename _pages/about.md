@@ -17,11 +17,11 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
-### Theorem of the Week, March 25-29, 2024
+### Theorem of the Week, April 1-5, 2024
 
-At least one of $\zeta(k)$, $k = 5, 7, 9, 11$, is irrational.
+This theorem I actually derived myself! For $n$ even, $$\prod_{p \text{ prime}}\frac{p^n-1}{p^n+1} = (-1)^{\tfrac{n}{2}+1}\frac{2B_{2n}}{{2n \choose n}B_n^2},$$ where $B_n$ is the $n$-th Bernoulli number!
 
-### Song of the Week, March 25-29, 2024
+### Song of the Week, April 1-5, 2024
 
 **Harvest Moon:** In celebration of Joni Mitchell and Neil Young being back on Spotify this week, I thought it only made sense to include [this beautiful love song](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk?si=8fa77d9ca5ca41c2) as my song of the week!
 
