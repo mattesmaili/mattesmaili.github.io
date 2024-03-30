@@ -19,7 +19,7 @@ You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
 ### Theorem of the Week, April 1-5, 2024
 
-This theorem I actually derived myself! For $n$ even, $$\prod_{p \text{ prime}}\frac{p^n-1}{p^n+1} = (-1)^{\tfrac{n}{2}+1}\frac{2B_{2n}}{{2n \choose n}B_n^2},$$ where $B_n$ is the $n$-th Bernoulli number!
+This theorem I actually derived myself! For $n$ even, $$\prod_{p \text{ prime}}\frac{p^n-1}{p^n+1} = (-1)^{\tfrac{n}{2}+1}\frac{2B_{2n}}{{2n \choose n}B_n^2},$$ where $B_n$ is the $n$-th Bernoulli number! For example, when $n = 2, 4$ we get $2/5$, $6/7$, respectively.
 
 ### Song of the Week, April 1-5, 2024
 
