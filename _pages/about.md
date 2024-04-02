@@ -19,7 +19,7 @@ You can find my CV [here](https://mattesmaili.github.io/files/new_resume.pdf).
 
 ### Theorem of the Week, April 1-5, 2024
 
-Test...
+Let $G$ be a finite group. If the probability that two randomly chosen elements of $G$ commute is larger than $5/8$, then $G$ must be abelian!
 
 ### Song of the Week, April 1-5, 2024
 
