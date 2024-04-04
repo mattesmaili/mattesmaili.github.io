@@ -17,7 +17,7 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 ### Theorem of the Week, April 1-5, 2024
 
-Let $G$ be a finite group. If the probability that two randomly chosen elements of $G$ commute is larger than $5/8$, then $G$ must be abelian!
+Let $G$ be a finite group. If the probability that two randomly chosen elements of $G$ commute is larger than $5/8$, then $G$ must be abelian! Note that this is a strict bound, as the quaternions are not abelian, but have probability exactly $5/8$, where we define this probability specifically as $$\frac{1}{|G|^2}\sum_{g, h \in G}1_{gh = hg}.$$
 
 ### Song of the Week, April 1-5, 2024
 
