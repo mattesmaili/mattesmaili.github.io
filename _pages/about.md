@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## About Me
 
-I am currently a second-year PhD student in the Department of Statistics at [Harvard University](https://statistics.fas.harvard.edu/). In June 2022, I completed my B.S. in Mathematics and Statistics at [UCLA](https://ww3.math.ucla.edu/). I am broadly interested in the intersection of pure mathematics with statistical methods, such as free probability, random matrix theory, and theoretical machine learning.
+I am currently a second-year PhD student in the Department of Statistics at [Harvard University](https://statistics.fas.harvard.edu/), where I will be graciously supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) starting Fall 2024. I am broadly interested in the intersection of pure mathematics with statistical methods, such as free probability, random matrix theory, and theoretical machine learning. In June 2022, I completed my B.S. in Mathematics and Statistics at [UCLA](https://ww3.math.ucla.edu/).
 
 Outside of class, I am interested in lots of different things! I love playing the [guitar](https://mattesmaili.github.io/files/guitar.png) & piano, cooking, shooting film photography, playing chess, learning languages, and more. My favorite artists are the [Beatles](https://open.spotify.com/playlist/07ZKf7841juhmGlI6LMfBd?si=4511ac89f1d14618), the Smiths, Pink Floyd, the Beach Boys, the Doors, Nick Drake, Eydie Gorme, Chopin, and Kourosh Yaghmaei.
 
@@ -17,7 +17,7 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 ### Theorem of the Week, April 1-5, 2024
 
-Let $G$ be a finite group. If the probability that two randomly chosen elements of $G$ commute is larger than $5/8$, then $G$ must be abelian! Note that this is a strict bound, as the quaternions are not abelian, but have probability exactly $5/8$, where we define this probability specifically as $$\frac{1}{|G|^2}\sum_{g, h \in G}1_{gh = hg}.$$
+$\pi$ is irrational! Although we all know this one to be true, I only recently discovered a marvelously short proof that only uses elementary calculus, which [you can find here](https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society-new-series/volume-53/issue-6/A-simple-proof-that-pi-is-irrational/bams/1183510788.full).
 
 ### Song of the Week, April 1-5, 2024
 
@@ -25,9 +25,10 @@ Let $G$ be a finite group. If the probability that two randomly chosen elements 
 
 
 ## Teaching
-• **Spring 2024**: Stat 149 (Introduction to Generalized Linear Models), [Dr. Mark Glickman](http://www.glicko.net/)
-
-• **Fall 2023**: Stat 104 (Introduction to Quantitative Methods for Economics), [Dr. Kevin Rader](https://statistics.fas.harvard.edu/people/kevin-rader)
+• **Stat 149:** Introduction to Generalized Linear Models, [Dr. Mark Glickman](http://www.glicko.net/). Harvard University, Spring 2024.
+• **Stat 104:** Introduction to Quantitative Methods for Economics, [Dr. Kevin Rader](https://statistics.fas.harvard.edu/people/kevin-rader). Harvard University, Fall 2023.
+• **Math 115A:** Linear Algebra, [Dr. Will Conley](https://www.math.ucla.edu/~wconley/). UCLA, Winter 2022.
+• **Math 115A:** Linear Algebra, [Dr. Christy Hazel]([https://www.math.ucla.edu/~wconley/](https://christyhazel.github.io/)). UCLA, Spring 2021.
 
 ## Publications
 
