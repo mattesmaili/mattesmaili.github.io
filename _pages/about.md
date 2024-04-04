@@ -26,8 +26,11 @@ $\pi$ is irrational! Although we all know this one to be true, I only recently d
 
 ## Teaching
 • **Stat 149:** Introduction to Generalized Linear Models, [Dr. Mark Glickman](http://www.glicko.net/). Harvard University, Spring 2024.
+
 • **Stat 104:** Introduction to Quantitative Methods for Economics, [Dr. Kevin Rader](https://statistics.fas.harvard.edu/people/kevin-rader). Harvard University, Fall 2023.
+
 • **Math 115A:** Linear Algebra, [Dr. Will Conley](https://www.math.ucla.edu/~wconley/). UCLA, Winter 2022.
+
 • **Math 115A:** Linear Algebra, [Dr. Christy Hazel]([https://www.math.ucla.edu/~wconley/](https://christyhazel.github.io/)). UCLA, Spring 2021.
 
 ## Publications
