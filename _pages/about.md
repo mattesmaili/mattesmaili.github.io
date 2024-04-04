@@ -31,7 +31,7 @@ $\pi$ is irrational! Although we all know this one to be true, I only recently d
 
 • **Math 115A:** Linear Algebra, [Dr. Will Conley](https://www.math.ucla.edu/~wconley/). UCLA, Winter 2022.
 
-• **Math 115A:** Linear Algebra, [Dr. Christy Hazel]([https://www.math.ucla.edu/~wconley/](https://christyhazel.github.io/)). UCLA, Spring 2021.
+• **Math 115A:** Linear Algebra, [Dr. Christy Hazel](https://christyhazel.github.io/). UCLA, Spring 2021.
 
 ## Publications
 
