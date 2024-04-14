@@ -15,13 +15,13 @@ Outside of class, I am interested in lots of different things! I love playing th
 
 Please feel free to reach out to me if you want to talk about mathematics or anything else above! :^)
 
-### Theorem of the Week, April 8-12, 2024
+### Theorem of the Week, April 15-19, 2024
 
-$\pi$ is irrational! Although we all know this one to be true, I only recently discovered a marvelously short proof that only uses elementary calculus, which [you can find here](https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society-new-series/volume-53/issue-6/A-simple-proof-that-pi-is-irrational/bams/1183510788.full).
+This week's theorem is again simple to understand but with an interesting proof: $\sqrt{n}$ is irrational when $n$ is not a perfect square. To see why, note that since $n$ is not a perfect square, its prime factorization *must* include a prime to an odd power. Then if we assume that $\sqrt{n} = a/b$, we have $nb^2 = a^2$, and thus the LHS has that prime showing up an odd number of times, and an even number of times on the RHS, a contradiction to unique prime factorization!
 
-### Song of the Week, April 8-12, 2024
+### Song of the Week, April 15-19, 2024
 
-**What's Going On:** The bass player for [this song](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l?si=c7004c86479e4b8d), the legendary [James Jamerson](https://en.wikipedia.org/wiki/James_Jamerson), was so drunk while doing it that he literally played the entire bass line lying down flat on his back.
+**And I Love Her (Judy Collins cover):** [This song](https://open.spotify.com/track/4pfKv9x0LJulFEf84iZ99b?si=5f4ffd80ddec429e) is the most gorgeous cover of "And I Love Her" by the Beatles I've ever heard! There are so many covers of this song that [I literally have a playlist dedicated to it](https://open.spotify.com/playlist/3kdRk6a6ysetLo8wETS0ey?si=bb7c5546799f4888) as well.
 
 
 ## Teaching
