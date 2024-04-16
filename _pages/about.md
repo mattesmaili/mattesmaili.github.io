@@ -13,6 +13,8 @@ I am currently a second-year PhD student in the Department of Statistics at [Har
 
 Outside of class, I am interested in lots of different things! I love playing the [guitar](https://mattesmaili.github.io/files/guitar.png) & piano, cooking, shooting film photography, playing chess, learning languages, and more. My favorite artists are the [Beatles](https://open.spotify.com/playlist/07ZKf7841juhmGlI6LMfBd?si=4511ac89f1d14618), the Smiths, Pink Floyd, the Beach Boys, the Doors, Nick Drake, Eydie Gorme, Chopin, and Kourosh Yaghmaei.
 
+I have been doing PhotoShop and graphic design for over a decade now, and I actually opened up a [storefront with original mathematics and statistics t-shirts](https://www.teepublic.com/user/matthew-s-mathematics), so please give it a look!
+
 Please feel free to reach out to me if you want to talk about mathematics or anything else above! :^)
 
 ### Theorem of the Week, April 15-19, 2024
