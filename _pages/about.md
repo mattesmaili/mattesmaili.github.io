@@ -17,13 +17,13 @@ I have been doing PhotoShop and graphic design for over a decade now, and I actu
 
 Please feel free to reach out to me if you want to talk about mathematics or anything else above! :^)
 
-### Theorem of the Week, April 15-19, 2024
+### Theorem of the Week, April 22-26, 2024
 
-This week's theorem is again simple to understand but with an interesting proof: $\sqrt{n}$ is irrational when $n$ is not a perfect square. To see why, note that since $n$ is not a perfect square, its prime factorization *must* include a prime to an odd power. Then if we assume that $\sqrt{n} = a/b$, we have $nb^2 = a^2$, and thus the LHS has that prime showing up an odd number of times, and an even number of times on the RHS, a contradiction to unique prime factorization!
+Take $n$ unit vectors $v_1$, ..., $v_n \in \mathbb{R}^n$. Then for a given random variable $Z \sim \text{Unif}(\mathbb{S}^{n-1})$, let $B_i = \text{sign}(v_i^\intercal Z), $1 \leq i \leq n$. Then these $B_i$ are Rademacher distributed with correlation $\text{cor}(B_i, B_j) = \frac{\pi - 2\theta_{i,j}}{\pi}$, where $\theta_{i,j} = \text{arccos}^{-1}\left(B_i^\intercal B_j\right)$ is the angle between the two vectors.
 
-### Song of the Week, April 15-19, 2024
+### Song of the Week, April 22-26, 2024
 
-**And I Love Her (Judy Collins cover):** [This song](https://open.spotify.com/track/4pfKv9x0LJulFEf84iZ99b?si=5f4ffd80ddec429e) is the most gorgeous cover of "And I Love Her" by the Beatles I've ever heard! There are so many covers of this song that [I literally have a playlist dedicated to it](https://open.spotify.com/playlist/3kdRk6a6ysetLo8wETS0ey?si=bb7c5546799f4888) as well.
+**Birthday:** I used to make fun of [this song](https://open.spotify.com/track/1ABegtCPBMMJaMpfDyATjE?si=7042daebf4dc4df6) quite a bit, but I never realized how wonderful the middle/bridge section is, I love the guitar and piano combination there!
 
 
 ## Teaching
