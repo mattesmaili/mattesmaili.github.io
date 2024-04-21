@@ -19,7 +19,7 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 ### Theorem of the Week, April 22-26, 2024
 
-Take $n$ fixed unit vectors $v_1$, ..., $v_n \in \mathbb{S}^{n-1} \subset \mathbb{R}^n$. Then for a given random variable $Z \sim \text{Unif}(\mathbb{S}^{n-1})$, let $B_i = \text{sign}(v_i^\intercal Z), $1 \leq i \leq n$. Then these $B_i$ are Rademacher distributed with correlation $\text{cor}(B_i, B_j) = \frac{\pi - 2\theta_{i,j}}{\pi}$, where $\theta_{i,j} = \text{arccos}^{-1}\left(B_i^\intercal B_j\right)$ is the angle between the two vectors.
+Take $n$ fixed unit vectors $v_1$, ..., $v_n \in \mathbb{S}^{n-1} \subset \mathbb{R}^n$. Then for a given random variable $Z \sim \text{Unif}(\mathbb{S}^{n-1})$, let $B_i = \text{sign}(v_i^\intercal Z)$, $1 \leq i \leq n$. Then these $B_i$ are Rademacher distributed with correlation $\text{cor}(B_i, B_j) = \frac{\pi - 2\theta_{i,j}}{\pi}$, where $\theta_{i,j} = \text{arccos}^{-1}\left(B_i^\intercal B_j\right)$ is the angle between the two vectors.
 
 ### Song of the Week, April 22-26, 2024
 
