@@ -17,13 +17,13 @@ I have been doing PhotoShop and graphic design for over a decade now, and I actu
 
 Please feel free to reach out to me if you want to talk about mathematics or anything else above! :^)
 
-### Theorem of the Week, April 22-26, 2024
+### Theorem of the Week, April 29-May 3, 2024
 
-Take $n$ fixed unit vectors $v_1$, ..., $v_n \in \mathbb{S}^{n-1} \subset \mathbb{R}^n$. Then for a given random variable $Z \sim \text{Unif}(\mathbb{S}^{n-1})$, let $B_i = \text{sign}(v_i^\intercal Z)$, $1 \leq i \leq n$. Then these $B_i$ are Rademacher distributed with correlation $\text{cor}(B_i, B_j) = \frac{\pi - 2\theta_{i,j}}{\pi}$, where $\theta_{i,j} = \text{arccos}\left(v_i^\intercal v_j\right)$ is the angle between the two fixed vectors.
+$$\sum_{n=1}^\infty\int_0^\pi \frac{n\sin(nx)}{e^n}\text{d}x = \frac{2e}{e^2-1}.$$
 
-### Song of the Week, April 22-26, 2024
+### Song of the Week, April 29-May 3, 2024
 
-**Birthday:** I used to make fun of [this song](https://open.spotify.com/track/1ABegtCPBMMJaMpfDyATjE?si=7042daebf4dc4df6) quite a bit, but I never realized how wonderful the middle/bridge section is, I love the guitar and piano combination there!
+**Harvest Moon:** How did I not know [this wonderful song](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk?si=260da4d1a62a41e7) came out in the 90's!? Neil Young has such a good way of capturing old recording charm and noise, it's amazing.
 
 
 ## Teaching
