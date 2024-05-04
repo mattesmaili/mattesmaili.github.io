@@ -17,14 +17,13 @@ I have been doing PhotoShop and graphic design for over a decade now, and I actu
 
 Please feel free to reach out to me if you want to talk about mathematics or anything else above! :^)
 
-### Theorem of the Week, April 29-May 3, 2024
+### Theorem of the Week, May 6-10, 2024
 
-$$\sum_{n=1}^\infty\int_0^\pi \frac{n\sin(nx)}{e^n}\text{d}x = \frac{2e}{e^2-1}.$$
+$$\sum_{n=1}^\infty\frac{\cos(n)}{n} = -\frac{1}{2}\log(2 - 2\cos(1)) \approx 0.042$$
 
-### Song of the Week, April 29-May 3, 2024
+### Song of the Week, April May 6-10, 2024
 
-**Harvest Moon:** How did I not know [this wonderful song](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk?si=260da4d1a62a41e7) came out in the 90's!? Neil Young has such a good way of capturing old recording charm and noise, it's amazing.
-
+**Suzanne:** Shout out to my advisor for putting me onto Leonard Cohen and [this amazing song](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F?si=447b588a9d3e48f9) as well!
 
 ## Teaching
 • **Stat 149:** Introduction to Generalized Linear Models, [Dr. Mark Glickman](http://www.glicko.net/). Harvard University, Spring 2024.
