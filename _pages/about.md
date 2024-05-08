@@ -21,7 +21,7 @@ Please feel free to reach out to me if you want to talk about mathematics or any
 
 $$\sum_{n=1}^\infty\frac{\cos(n)}{n} = -\frac{1}{2}\log(2 - 2\cos(1)) \approx 0.042$$
 
-### Song of the Week, April May 6-10, 2024
+### Song of the Week, May 6-10, 2024
 
 **Suzanne:** Shout out to my advisor for putting me onto Leonard Cohen and [this amazing song](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F?si=447b588a9d3e48f9) as well!
 
