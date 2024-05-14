@@ -17,13 +17,13 @@ I have been doing PhotoShop and graphic design for over a decade now, and I actu
 
 Please feel free to reach out to me if you want to talk about mathematics or anything else above! :^)
 
-### Theorem of the Week, May 6-10, 2024
+### Theorem of the Week, May 13-17, 2024
 
-$$\sum_{n=1}^\infty\frac{\cos(n)}{n} = -\frac{1}{2}\log(2 - 2\cos(1)) \approx 0.042$$
+When is $n! + 1$ a perfect square? Up until $n = 10^{11}$, the only known solutions are $n = 4, 5, 7$. 
 
-### Song of the Week, May 6-10, 2024
+### Song of the Week, May 13-17, 2024
 
-**Suzanne:** Shout out to my advisor for putting me onto Leonard Cohen and [this amazing song](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F?si=447b588a9d3e48f9) as well!
+**Operator (That's Not the Way It Feels):** I always loved Jim Croce, and didn't realize how good [this song](https://open.spotify.com/track/4mQtXW0vrHC3oTkA1mQsb0?si=a09a6523106e45e0) really was. It's so sad to know we lost him so young!
 
 ## Teaching
 • **Stat 149:** Introduction to Generalized Linear Models, [Dr. Mark Glickman](http://www.glicko.net/). Harvard University, Spring 2024.
