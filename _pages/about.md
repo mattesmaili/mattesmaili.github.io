@@ -17,11 +17,11 @@ I have been doing PhotoShop and graphic design for over a decade now, and I actu
 
 Please feel free to reach out to me if you want to talk about mathematics or anything else above! :^)
 
-### Theorem of the Week, May 13-17, 2024
+### Theorem of the Week, June 3-7, 2024
 
-When is $n! + 1$ a perfect square? Up until $n = 10^{11}$, the only known solutions are $n = 4, 5, 7$. 
+The only known number to show up on Pascal's Triangle 7 or more times (it shows up 8) is 3003, since $C(3003, 1) = C(78, 2) = C(15, 5) = C(14, 6)$. 
 
-### Song of the Week, May 13-17, 2024
+### Song of the Week, June 3-7, 2024
 
 **Operator (That's Not the Way It Feels):** I always loved Jim Croce, and didn't realize how good [this song](https://open.spotify.com/track/4mQtXW0vrHC3oTkA1mQsb0?si=a09a6523106e45e0) really was. It's so sad to know we lost him so young!
 
