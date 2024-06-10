@@ -15,13 +15,13 @@ Outside of class, I am interested in lots of different things! I love playing th
 
 Please check out my new Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more! Also feel free to reach out to me if you want to talk about anything above :^)
 
-### Theorem of the Week, June 3-7, 2024
+### Theorem of the Week, June 10-14, 2024
 
 If $a, b, c$ are positive, then $$\frac{a}{b+c} + \frac{b}{a+c} + \frac{c}{a+b} \geq \frac32.$$
 
-### Song of the Week, June 3-7, 2024
+### Song of the Week, June 10-14, 2024
 
-**Operator (That's Not the Way It Feels):** I always loved Jim Croce, and didn't realize how good [this song](https://open.spotify.com/track/4mQtXW0vrHC3oTkA1mQsb0?si=a09a6523106e45e0) really was. It's so sad to know we lost him so young!
+**Do I Love You? (The Ronettes):** [This song](https://open.spotify.com/track/2WnqwGtx6qbD3HFpj4NeJy?si=e74b8a8a45934624) is really one of my favorites from their absolutely fantastic only album!
 
 ## Teaching
 • **Stat 149:** Introduction to Generalized Linear Models, [Dr. Mark Glickman](http://www.glicko.net/). Harvard University, Spring 2024.
