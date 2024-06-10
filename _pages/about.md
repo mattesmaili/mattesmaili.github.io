@@ -13,13 +13,11 @@ I am currently a second-year PhD student in the Department of Statistics at [Har
 
 Outside of class, I am interested in lots of different things! I love playing the [guitar](https://mattesmaili.github.io/files/guitar.png) & piano, cooking, shooting film photography, playing chess, learning languages, and more. My favorite artists are the [Beatles](https://open.spotify.com/playlist/07ZKf7841juhmGlI6LMfBd?si=4511ac89f1d14618), the Smiths, Pink Floyd, the Beach Boys, the Doors, Nick Drake, Eydie Gorme, Chopin, and Kourosh Yaghmaei.
 
-I have been doing PhotoShop and graphic design for over a decade now, and I actually opened up a [storefront with original mathematics and statistics t-shirts](https://www.teepublic.com/user/matthew-s-mathematics), so please give it a look!
-
-Please feel free to reach out to me if you want to talk about mathematics or anything else above! :^)
+Please check out my new Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more! Also feel free to reach out to me if you want to talk about anything above :^)
 
 ### Theorem of the Week, June 3-7, 2024
 
-The only known number to show up on Pascal's Triangle 7 or more times (it shows up 8) is 3003, since $C(3003, 1) = C(78, 2) = C(15, 5) = C(14, 6)$. 
+If $a, b, c$ are positive, then $$\frac{a}{b+c} + \frac{b}{a+c} + \frac{c}{a+b} \geq \frac32.$$
 
 ### Song of the Week, June 3-7, 2024
 
