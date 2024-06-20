@@ -15,13 +15,13 @@ Outside of class, I am interested in lots of different things! I love playing th
 
 Please check out my new Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more! Also feel free to reach out to me if you want to talk about anything above :^)
 
-### Theorem of the Week, June 10-14, 2024
+### Theorem of the Month, June 2024
 
-If $a, b, c$ are positive, then $$\frac{a}{b+c} + \frac{b}{a+c} + \frac{c}{a+b} \geq \frac32.$$
+There is no continuous $f: \mathbb{C}^2 \to \mathbb{C}$ such that for every $b, c \in \mathbb{C}$, $f(b, c)$ is a root of $x^2 + bx + c = 0$. 
 
-### Song of the Week, June 10-14, 2024
+### Song of the Month, June 2024
 
-**Do I Love You? (The Ronettes):** [This song](https://open.spotify.com/track/2WnqwGtx6qbD3HFpj4NeJy?si=e74b8a8a45934624) is really one of my favorites from their absolutely fantastic only album!
+**Loving You (Michael Jackson):** I can't believe the beautiful original version of [this song](https://open.spotify.com/track/5Yo0Jz7YDAEPKsklNfQTA6?si=f90c52e5876f4107) didn't make it onto the BAD album!
 
 ## Teaching
 • **Stat 149:** Introduction to Generalized Linear Models, [Dr. Mark Glickman](http://www.glicko.net/). Harvard University, Spring 2024.
