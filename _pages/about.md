@@ -17,7 +17,7 @@ Please check out my new Instagram page, [Razi ba Riazi](https://www.instagram.co
 
 ### Theorem of the Week, July 22-26 2024
 
-Let $f : [0, 1] \to \mathbb{R}$ be smooth with $f(0) = f(1) = 0$. Then $\int_0^1f^2(x)\,\text{d}x \leq \frac{1}{\pi^2}\int_0^1f'(x)^2\,\text{d}x$.
+Let $f : [0, 1] \to \mathbb{R}$ be smooth with $f(0) = f(1) = 0$. Then $\int_0^1f^2(x)\text{d}x \leq \frac{1}{\pi^2}\int_0^1f'(x)^2\text{d}x$.
 
 ### Song of the Month, July 22-26 2024
 
