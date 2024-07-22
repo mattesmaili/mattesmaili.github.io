@@ -15,11 +15,11 @@ Outside of class, I am interested in lots of different things! I love playing th
 
 Please check out my new Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more! Also feel free to reach out to me if you want to talk about anything above :^)
 
-### Theorem of the Month, June 2024
+### Theorem of the Week, July 22-26 2024
 
-There is no continuous $f: \mathbb{C}^2 \to \mathbb{C}$ such that for every $b, c \in \mathbb{C}$, $f(b, c)$ is a root of $x^2 + bx + c = 0$. 
+Let $f : [0, 1] \to \mathbb{R}$ be smooth with $f(0) = f(1) = 0$. Then $\int_0^1f^2(x)\,\text{d}x \leq \frac{1}{\pi^2}\int_0^1f'(x)^2\,\text{d}x$.
 
-### Song of the Month, June 2024
+### Song of the Month, July 22-26 2024
 
 **Loving You (Michael Jackson):** I can't believe the beautiful original version of [this song](https://open.spotify.com/track/5Yo0Jz7YDAEPKsklNfQTA6?si=f90c52e5876f4107) didn't make it onto the BAD album!
 
