@@ -21,7 +21,7 @@ Let $f : [0, 1] \to \mathbb{R}$ be smooth with $f(0) = f(1) = 0$. Then $\display
 
 ### Song of the Month, July 22-26 2024
 
-**Loving You (Michael Jackson):** I can't believe the beautiful original version of [this song](https://open.spotify.com/track/5Yo0Jz7YDAEPKsklNfQTA6?si=f90c52e5876f4107) didn't make it onto the BAD album!
+**Desafinado (Stan Getz, Joao Gilberto):** The entire album that [this song](https://open.spotify.com/track/1510fBb9thwIKg6pwPhzTc?si=126c7e1be77842e2) is on is such a masterpiece! I suggest anybody getting into Jazz or Brazilian music to listen to it.
 
 ## Teaching
 • **Stat 149:** Introduction to Generalized Linear Models, [Dr. Mark Glickman](http://www.glicko.net/). Harvard University, Spring 2024.
