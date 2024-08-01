@@ -15,13 +15,13 @@ Outside of class, I am interested in lots of different things! I love playing th
 
 Please check out my new Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more! Also feel free to reach out to me if you want to talk about anything above :^)
 
-### Theorem of the Week, July 22-26 2024
+### Theorem of the Month, August 2024
 
-Let $f : [0, 1] \to \mathbb{R}$ be smooth with $f(0) = f(1) = 0$. Then $\displaystyle\int_0^1f^2(x)\text{d}x \leq \frac{1}{\pi^2}\int_0^1f'(x)^2\text{d}x$.
+If the (generalized) [Riemann Hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis) is true, then the odd integers not of the form $a^2+b^2 + 10c^2$ for any integers $a, b, c$ are exactly 3, 7, 21, 33, 43, 67, 79, 87, 133, 217, 219, 223, 253, 307, 391, 679, 2719.
 
-### Song of the Month, July 22-26 2024
+### Song of the Month, August 2024
 
-**Desafinado (Stan Getz, Joao Gilberto):** The entire album that [this song](https://open.spotify.com/track/1510fBb9thwIKg6pwPhzTc?si=126c7e1be77842e2) is on is such a masterpiece! I suggest anybody getting into Jazz or Brazilian music to listen to it.
+**Corcovado (Stan Getz, Joao Gilberto):** [This song](https://open.spotify.com/track/5EaU1o7PQE5vhW5HdDWgdO?si=716dae322ffe4dca) is really getting me into Bossa Nova as a genre! I think it is so beautiful and when that saxophone kicks in, it is almost otherworldly.
 
 ## Teaching
 • **Stat 149:** Introduction to Generalized Linear Models, [Dr. Mark Glickman](http://www.glicko.net/). Harvard University, Spring 2024.
