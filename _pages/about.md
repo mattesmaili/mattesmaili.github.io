@@ -15,11 +15,11 @@ Outside of class, I am interested in lots of different things! I love playing th
 
 Please check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more! Also feel free to reach out to me if you want to talk about anything above :^)
 
-### Theorem of the Month, August 2024
+### Theorem of the Week, September 2-6, 2024
 
-If the (generalized) [Riemann Hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis) is true, then the odd integers not of the form $a^2+b^2 + 10c^2$ for any integers $a, b, c$ are exactly 3, 7, 21, 33, 43, 67, 79, 87, 133, 217, 219, 223, 253, 307, 391, 679, 2719.
+If $n$ is an even integer, then the set $\{1, 2, \ldots, n\}$ can always be split into pairs $(a_1, b_1), \ldots, (a_{n/2}, b_{n/2})$ such that $a_i+b_i$ is prime for all $i = 1, \ldots, n/2$.
 
-### Song of the Month, August 2024
+### Song of the Week, September 2-6, 2024
 
 **Corcovado (Stan Getz, Joao Gilberto):** [This song](https://open.spotify.com/track/5EaU1o7PQE5vhW5HdDWgdO?si=716dae322ffe4dca) is really getting me into Bossa Nova as a genre! I think it is so beautiful and when that saxophone kicks in, it is almost otherworldly.
 
