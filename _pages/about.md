@@ -15,13 +15,13 @@ Outside of class, I am interested in lots of different things! I love playing th
 
 Please check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more! Also feel free to reach out to me if you want to talk about anything above :^)
 
-### Theorem of the Week, September 2-6, 2024
+### Theorem of the Week, September 16-20, 2024
 
-If $n$ is an even integer, then the set $\{1, 2, \ldots, n\}$ can always be split into pairs $(a_1, b_1), \ldots, (a_{n/2}, b_{n/2})$ such that $a_i+b_i$ is prime for all $i = 1, \ldots, n/2$.
+There is no nonzero polynomial differential equation (in the variables $x, y, y', y'', \ldots$) that the gamma function $y = \Gamma(x)$ satisfies!
 
-### Song of the Week, September 2-6, 2024
+### Song of the Week, September 16-20, 2024
 
-**Corcovado (Stan Getz, Joao Gilberto):** [This song](https://open.spotify.com/track/5EaU1o7PQE5vhW5HdDWgdO?si=716dae322ffe4dca) is really getting me into Bossa Nova as a genre! I think it is so beautiful and when that saxophone kicks in, it is almost otherworldly.
+**It's Over (ELO):** [This song](https://open.spotify.com/track/4vmTtO8qFF9StEVeQ1KftR?si=90fdcd8d4aa149d0) was my gateway into ELO! Love it so much.
 
 ## Teaching
 • **Stat 149:** Introduction to Generalized Linear Models, [Dr. Mark Glickman](http://www.glicko.net/). Harvard University, Spring 2024.
