@@ -15,13 +15,13 @@ Outside of class, I am interested in lots of different things! I love playing th
 
 Please check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more! Also feel free to reach out to me if you want to talk about anything above :^)
 
-### Theorem of the Week, September 16-20, 2024
+### Theorem of the Week, October 1-4, 2024
 
-There is no nonzero polynomial differential equation (in the variables $x, y, y', y'', \ldots$) that the gamma function $y = \Gamma(x)$ satisfies!
+It is my birthweek, so I figured I'd share a cool probability fact: If you have 23 people in a room, there is a $\geq 50\%$ chance that two of them share a birthday!
 
-### Song of the Week, September 16-20, 2024
+### Song of the Week, October 1-4, 2024
 
-**It's Over (ELO):** [This song](https://open.spotify.com/track/4vmTtO8qFF9StEVeQ1KftR?si=90fdcd8d4aa149d0) was my gateway into ELO! Love it so much.
+**Misty (Ella Fitzgerald):** I have to say that Ella Fitzgerald's version of [this classic Jazz piece](https://open.spotify.com/track/4kF394GKEnI13QdZBM9mxM?si=64c7cc27128543db) is absolutely my favorite!! Such a timeless song.
 
 ## Teaching
 • **Stat 149:** Introduction to Generalized Linear Models, [Dr. Mark Glickman](http://www.glicko.net/). Harvard University, Spring 2024.
