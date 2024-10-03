@@ -17,7 +17,7 @@ Please check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/ra
 
 ### Theorem of the Week, October 1-4, 2024
 
-It is my birthweek, so I figured I'd share a cool probability fact: If you have 23 people in a room, there is a $\geq 50\%$ chance that two of them share a birthday!
+It is my birthweek, so I figured I'd share a cool probability fact: If you have 23 people in a room, there is a greater than 50% chance that two of them share a birthday!
 
 ### Song of the Week, October 1-4, 2024
 
