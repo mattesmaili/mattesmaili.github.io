@@ -17,7 +17,7 @@ Please check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/ra
 
 ### Theorem of the Week, October 14-18, 2024
 
-There is only one quadratic bijection between $\mathbb{N}$ and $\mathbb{N}^2$, and it is $f(x, y) = \tfrac12\left((x+y)^2 + 3x + y\right)^2$ (ok, $f(y, x)$ makes it two but whatever). 
+There is only one quadratic bijection between $\mathbb{N}$ and $\mathbb{N}^2$, and it is $f(x, y) = \tfrac12\left((x+y)^2 + 3x + y\right)$ (ok, $f(y, x)$ makes it two but whatever). 
 
 ### Song of the Week, October 14-18, 2024
 
