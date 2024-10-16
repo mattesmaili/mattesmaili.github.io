@@ -15,13 +15,13 @@ Outside of class, I am interested in lots of different things! I love playing th
 
 Please check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more! Also feel free to reach out to me if you want to talk about anything above :^)
 
-### Theorem of the Week, October 1-4, 2024
+### Theorem of the Week, October 14-18, 2024
 
-It is my birthweek, so I figured I'd share a cool probability fact: If you have 23 people in a room, there is a greater than 50% chance that two of them share a birthday!
+There is only one quadratic bijection between $\mathbb{N}$ and $\mathbb{N}^2$, and it is $f(x, y) = \tfrac12\left((x+y)^2 + 3x + y\right)^2$ (ok, $f(y, x)$ makes it two but whatever). 
 
-### Song of the Week, October 1-4, 2024
+### Song of the Week, October 14-18, 2024
 
-**Misty (Ella Fitzgerald):** I have to say that Ella Fitzgerald's version of [this classic Jazz piece](https://open.spotify.com/track/4kF394GKEnI13QdZBM9mxM?si=64c7cc27128543db) is absolutely my favorite!! Such a timeless song.
+**I Don't Owe You Anything (The Smiths):** I've been a Smiths fan for a while but only recently discovered [this beautiful song](https://open.spotify.com/track/4WKdgb3xzbTSU7WT3kK3na?si=b9ac9eab8c984bc5) of theirs!
 
 ## Teaching
 • **Stat 149:** Introduction to Generalized Linear Models, [Dr. Mark Glickman](http://www.glicko.net/). Harvard University, Spring 2024.
