@@ -15,13 +15,13 @@ Outside of class, I am interested in lots of different things! I love playing th
 
 I do private tutoring for both statistics and mathematics. Please feel free to [reach out to me by email](mailto:matthewmallory@fas.harvard.edu) if you would like tutoring for courses in the Harvard Statistics department, or anything else more general. Also check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more. 
 
-### Theorem of the Week, December 2-6, 2024
+### Theorem of the Month, December 2024
 
-$22\arctan\left(\frac{24478}{873121}\right) + 17\arctan\left(\frac{685601}{69049993}\right) = \frac{\pi}{4}$.
+There exists a space $X$ such that $X \times \mathbb{R}$ is homeomorphic to $\mathbb{R}^4$, but $X$ has no open subset that is homeomorphic to $\mathbb{R}^3$.
 
-### Song of the Week, November 2-6, 2024
+### Song of the Month, December 2024
 
-**I Won (The Sundays):** I have been loving this artist in general, and [this song](https://open.spotify.com/track/3jT3MU6PxJ6aZdGeTR2uyH?si=64e0dd79aadb41ae) is really a great one from their most classic album!!
+**Monkberry Moon Delight (Paul McCartney):** Honestly, [this song](https://open.spotify.com/track/7afDukwRRDs0rmg3leQ8ti?si=e4490bacdf724139) is insane in all the best ways.
 
 ## Teaching
 • **Stat 149:** Introduction to Generalized Linear Models, [Dr. Mark Glickman](http://www.glicko.net/). Harvard University, Spring 2024.
