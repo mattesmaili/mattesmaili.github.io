@@ -15,11 +15,11 @@ Outside of class, I am interested in lots of different things! I love playing th
 
 I do private tutoring for both statistics and mathematics. Please feel free to [reach out to me by email](mailto:matthewmallory@fas.harvard.edu) if you would like tutoring for courses in the Harvard Statistics department, or anything else more general. Also check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more. 
 
-### Theorem of the Month, December 2024
+### Theorem of the Month, January 2025
 
-There exists a space $X$ such that $X \times \mathbb{R}$ is homeomorphic to $\mathbb{R}^4$, but $X$ has no open subset that is homeomorphic to $\mathbb{R}^3$.
+There exists a constant $a \approx 1.00536773279814724017$ such that $\lfloor a^{10^{10n}}\rfloor$ is prime for every $n = 1, 2, \ldots$
 
-### Song of the Month, December 2024
+### Song of the Month, January 2025
 
 **Monkberry Moon Delight (Paul McCartney):** Honestly, [this song](https://open.spotify.com/track/7afDukwRRDs0rmg3leQ8ti?si=e4490bacdf724139) is insane in all the best ways.
 
