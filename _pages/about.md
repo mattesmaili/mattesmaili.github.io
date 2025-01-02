@@ -17,7 +17,7 @@ I do private tutoring for both statistics and mathematics. Please feel free to [
 
 ### Theorem of the Month, January 2025
 
-There exists a constant $a \approx 1.00536773279814724017$ such that $\lfloor a^{10^{10n}}\rfloor$ is prime for every $n = 1, 2, \ldots$
+There exists a constant $a \approx 1.00536773279814724017$ such that $\lfloor a^{10^{10n}}\rfloor$ is prime for every single $n = 1, 2, 3, \ldots$
 
 ### Song of the Month, January 2025
 
