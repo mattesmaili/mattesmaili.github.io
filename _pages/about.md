@@ -23,6 +23,12 @@ Recall that $(a, b, c) \in \mathbb{N}^3$ is a *Pythagorean triple* if $a^2 + b^2
 
 **Glory of the Snow (Clairo):** I have become a huge fan of Clairo since her Charm album came out and [this song](https://open.spotify.com/track/4JLBaHFkjxnbf9X0D8G3zQ?si=f5e15dc20d7f4267) is by far my favorite, along with Terrapin!
 
+## Publications
+
+**Esmaili Mallory, M.**, Huang, K. H., & Austern, M. (2025). "Universality of High-Dimensional Logistic Regression and a Novel CGMT under Block Dependence with Applications to Data Augmentation." (*Submitted*).
+
+Yu, A., Becquey, C., Halikias, D., **Esmaili Mallory, M.**, & Townsend, A. (2021). "Arbitrary-Depth Universal Approximation Theorems for Operator Neural Networks." arXiv preprint. [arXiv:2109.11354](https://arxiv.org/abs/2109.11354).
+
 ## Teaching
 • **Stat 149:** Introduction to Generalized Linear Models, [Dr. Mark Glickman](http://www.glicko.net/). Harvard University, Spring 2024.
 
@@ -31,10 +37,3 @@ Recall that $(a, b, c) \in \mathbb{N}^3$ is a *Pythagorean triple* if $a^2 + b^2
 • **Math 115A:** Linear Algebra, [Dr. Will Conley](https://www.math.ucla.edu/~wconley/). UCLA, Winter 2022.
 
 • **Math 115A:** Linear Algebra, [Dr. Christy Hazel](https://christyhazel.github.io/). UCLA, Spring 2021.
-
-## Publications
-
-**Esmaili Mallory, M.**, Huang, K. H., & Austern, M. (2025). "Universality of High-Dimensional Logistic Regression and a Novel CGMT under Block Dependence with Applications to Data Augmentation." (*Submitted*).
-
-Yu, A., Becquey, C., Halikias, D., **Esmaili Mallory, M.**, & Townsend, A. (2021). "Arbitrary-Depth Universal Approximation Theorems for Operator Neural Networks." arXiv preprint. [arXiv:2109.11354](https://arxiv.org/abs/2109.11354).
-
