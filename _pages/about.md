@@ -34,6 +34,6 @@ Recall that $(a, b, c) \in \mathbb{N}^3$ is a *Pythagorean triple* if $a^2 + b^2
 
 ## Publications
 
-(2021) [Arbitrary-Depth Universal Approximation Theorems for Operator Neural Networks.](https://arxiv.org/abs/2109.11354)  
-Annan Yu, Chloe Becquey, Diana Halikias, Matthew Esmaili Mallory, Alex Townsend.
+**Esmaili Mallory, M.**, Huang, K. H., & Austern, M. (2025). "Universality of High-Dimensional Logistic Regression and a Novel CGMT under Block Dependence with Applications to Data Augmentation." arXiv preprint. (*Submitted*).
+Yu, A., Becquey, C., Halikias, D., **Esmaili Mallory, M.**, & Townsend, A. (2021). "Arbitrary-Depth Universal Approximation Theorems for Operator Neural Networks." arXiv preprint. \href{https://arxiv.org/abs/2109.11354}{arXiv:2109.11354}.
 
