@@ -17,7 +17,7 @@ I do private tutoring for both statistics and mathematics. Please feel free to [
 
 ### Theorem of the Month, February 2025
 
-Recall that $(a, b, c) \in \mathbb{N}^3$ is a *Pythagorean triple* if $a^2 + b^2 = c^2$. Well, it turns out that $N = 7824$ is the largest integer such that we can color all the numbers $1, 2, \ldots, N$ red and blue without any Pythagorean triple being all red or all blue. For every number $7825$ or larger, this is provably impossible! 
+Recall that $(a, b, c) \in \mathbb{N}^3$ is a *Pythagorean triple* if $a^2 + b^2 = c^2$. Well, it turns out that $N = 7824$ is the largest integer such that we can color all the numbers $1, 2, \ldots, N$ red and blue without any Pythagorean triple being all red or all blue. For every number $7825$ or larger, this is provably impossible, because $$7825^2 = 625^2 + 7800^2 = 5180^2 + 5865^2$$ ruins everything!
 
 ### Song of the Month, February 2025
 
