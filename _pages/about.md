@@ -25,9 +25,11 @@ Recall that $(a, b, c) \in \mathbb{N}^3$ is a *Pythagorean triple* if $a^2 + b^2
 
 ## Publications
 
-**Esmaili Mallory, M.**, Huang, K. H., & Austern, M. (2025). "Universality of High-Dimensional Logistic Regression and a Novel CGMT under Block Dependence with Applications to Data Augmentation." (*Submitted*).
+**Esmaili Mallory, M.**\*, Huang, K. H.\*, & Austern, M. (2025). "Universality of High-Dimensional Logistic Regression and a Novel CGMT under Block Dependence with Applications to Data Augmentation." (*Submitted*).
 
 Yu, A., Becquey, C., Halikias, D., **Esmaili Mallory, M.**, & Townsend, A. (2021). "Arbitrary-Depth Universal Approximation Theorems for Operator Neural Networks." arXiv preprint. [arXiv:2109.11354](https://arxiv.org/abs/2109.11354).
+
+(\* indicates equal contribution)
 
 ## Teaching
 • **Stat 149:** Introduction to Generalized Linear Models, [Dr. Mark Glickman](http://www.glicko.net/). Harvard University, Spring 2024.
