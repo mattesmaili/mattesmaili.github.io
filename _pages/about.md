@@ -26,8 +26,11 @@ Recall that $(a, b, c) \in \mathbb{N}^3$ is a *Pythagorean triple* if $a^2 + b^2
 ### Rumi Poem of the Month, February 2025
 
 When I am with you our loving wont let me sleep.
+
 Away from you the tears won’t let me sleep.
+
 God, it’s amazing to be awake both nights,
+
 But how different these awakenings are!
 
 ## Publications
