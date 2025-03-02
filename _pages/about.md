@@ -15,13 +15,13 @@ Outside of class, I am interested in lots of different things! I love playing th
 
 I do private tutoring for both statistics and mathematics. Please feel free to [reach out to me by email](mailto:matthewmallory@fas.harvard.edu) if you would like tutoring for courses in the Harvard Statistics department, or anything else more general. Also check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more. 
 
-### Theorem of the Month, February 2025
+### Theorem of the Week, March 3-7 2025
 
-Recall that $(a, b, c) \in \mathbb{N}^3$ is a *Pythagorean triple* if $a^2 + b^2 = c^2$. Well, it turns out that $N = 7824$ is the largest integer such that we can color all the numbers $1, 2, \ldots, N$ red and blue without any Pythagorean triple being all red or all blue. For every number $7825$ or larger, this is provably impossible, because $$7825^2 = 625^2 + 7800^2 = 5180^2 + 5865^2$$ ruins everything!
+An integer $n \geq 1$ is called *perfect* if it is the sum of its proper divisors. For example, $6 = 1+2+3$ is perfect. As it stands, there are only 51 perfect numbers known, and they are all even! It is unknown if an odd perfect number can exist. 
 
-### Song of the Month, February 2025
+### Song of the Week, March 3-7 2025
 
-**Glory of the Snow (Clairo):** I have become a huge fan of Clairo since her Charm album came out and [this song](https://open.spotify.com/track/4JLBaHFkjxnbf9X0D8G3zQ?si=f5e15dc20d7f4267) is by far my favorite, along with Terrapin!
+**Doing All Right (Queen):** I have known about Queen's discography for quite some time, but I never got much into the lesser known songs, such as [this song](https://open.spotify.com/track/3js9UOPVsguIDI2WyycfRJ?si=c717fd8748114e00), which is actually fantastic!!
 
 ## Publications
 
