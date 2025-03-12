@@ -15,13 +15,20 @@ Outside of class, I am interested in lots of different things! I love playing th
 
 I do private tutoring for both statistics and mathematics. Please feel free to [reach out to me by email](mailto:matthewmallory@fas.harvard.edu) if you would like tutoring for courses in the Harvard Statistics department, or anything else more general. Also check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more. 
 
-### Theorem of the Week, March 3-7 2025
+### Theorem of the Week, March 10-14 2025
 
-An integer $n \geq 1$ is called *perfect* if it is the sum of its proper divisors. For example, $6 = 1+2+3$ is perfect. As it stands, there are only 51 perfect numbers known, and they are all even! It is unknown if an odd perfect number can exist. 
+There exists a constant *Khinchin's constant*
+    \begin{align}
+        K := \prod_{n=1}^\infty\left(1 + \frac{1}{n(n+2)}\right)^{\log_2(n)} \approx 2.68545
+    \end{align}
+    such that for almost every $x \in \mathbb{R}$, if $x = (a_0; a_1, a_2, \ldots)$, then 
+    \begin{align}
+        \lim_{n\to\infty}\left(\prod_{i=1}^na_i\right)^{1/n} = K.
+    \end{align}
 
-### Song of the Week, March 3-7 2025
+### Song of the Week, March 10-14 2025
 
-**Doing All Right (Queen):** I have known about Queen's discography for quite some time, but I never got much into the lesser known songs, such as [this song](https://open.spotify.com/track/3js9UOPVsguIDI2WyycfRJ?si=c717fd8748114e00), which is actually fantastic!!
+**20191009 I Like Her (Mac DeMarco):** A few years ago Mac DeMacro released a ton of previously unreleased material with all literally no names, such as  [this song](https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1?si=84535dd4a85f48e8), and some of them are amazing!
 
 ## Publications
 
