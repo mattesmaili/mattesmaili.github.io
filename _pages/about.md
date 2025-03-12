@@ -18,13 +18,9 @@ I do private tutoring for both statistics and mathematics. Please feel free to [
 ### Theorem of the Week, March 10-14 2025
 
 There exists a constant *Khinchin's constant*
-    \begin{align}
-        K := \prod_{n=1}^\infty\left(1 + \frac{1}{n(n+2)}\right)^{\log_2(n)} \approx 2.68545
-    \end{align}
+        $$K := \prod_{n=1}^\infty\left(1 + \frac{1}{n(n+2)}\right)^{\log_2(n)} \approx 2.68545$$
     such that for almost every $x \in \mathbb{R}$, if $x = (a_0; a_1, a_2, \ldots)$, then 
-    \begin{align}
-        \lim_{n\to\infty}\left(\prod_{i=1}^na_i\right)^{1/n} = K.
-    \end{align}
+$$\lim_{n\to\infty}\left(\prod_{i=1}^na_i\right)^{1/n} = K.$$
 
 ### Song of the Week, March 10-14 2025
 
