@@ -17,7 +17,15 @@ I do private tutoring for both statistics and mathematics. Please feel free to [
 
 ### Theorem of the Week, March 31-April 4 2025
 
-How cool is this sum of binomial coefficient powers? $$\sum_{k=0}^n{n \choose k}^{-1} = \frac{n+1}{2^{n+1}}\sum_{k=1}^{n+1}\frac{2^k}{k}$$ $$\sum_{k=0}^n{n \choose k} = 2^n$$ $$\sum_{k=0}^n{n \choose k}^{2} = {2n\choose n}$$ $$\sum_{k=0}^n{n \choose k}^{3} = \sum_{k=0}^n{n\choose k}^2{2k \choose n}.$$
+How cool is this sum of binomial coefficient powers? 
+
+$$\sum_{k=0}^n{n \choose k}^{-1} = \frac{n+1}{2^{n+1}}\sum_{k=1}^{n+1}\frac{2^k}{k}$$ 
+
+$$\sum_{k=0}^n{n \choose k} = 2^n$$ 
+
+$$\sum_{k=0}^n{n \choose k}^{2} = {2n\choose n}$$ 
+
+$$\sum_{k=0}^n{n \choose k}^{3} = \sum_{k=0}^n{n\choose k}^2{2k \choose n}.$$
 
 ### Song of the Week, March 31-April 4 2025
 
