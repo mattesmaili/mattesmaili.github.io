@@ -33,7 +33,7 @@ $$\sum_{k=0}^n{n \choose k}^{3} = \sum_{k=0}^n{n\choose k}^2{2k \choose n}.$$
 
 ## Publications
 
-**Esmaili Mallory, M.**\*, Huang, K. H.\*, & Austern, M. (2025). "Universality of High-Dimensional Logistic Regression and a Novel CGMT under Block Dependence with Applications to Data Augmentation." arXiv preprint. [arXiv:2502.15752](https://arxiv.org/abs/2502.15752). (*Submitted*).
+**Esmaili Mallory, M.**\*, Huang, K. H.\*, & Austern, M. (2025). "Universality of High-Dimensional Logistic Regression and a Novel CGMT under Dependence with Applications to Data Augmentation." arXiv preprint. [arXiv:2502.15752](https://arxiv.org/abs/2502.15752). (*Submitted*).
 
 Yu, A., Becquey, C., Halikias, D., **Esmaili Mallory, M.**, & Townsend, A. (2021). "Arbitrary-Depth Universal Approximation Theorems for Operator Neural Networks." arXiv preprint. [arXiv:2109.11354](https://arxiv.org/abs/2109.11354).
 
