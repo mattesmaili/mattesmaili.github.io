@@ -29,6 +29,8 @@ $\sqrt{2}$ is irrational.
 
 **Esmaili Mallory, M.**\*, Huang, K. H.\*, & Austern, M. (2025). "Universality of High-Dimensional Logistic Regression and a Novel CGMT under Dependence with Applications to Data Augmentation." arXiv preprint. [arXiv:2502.15752](https://arxiv.org/abs/2502.15752). (*Submitted*).
 
+**Esmaili Mallory, M.**, Brown, J. & Glickman, M. (2025). "Come Together: Analyzing Popular Songs Through Statistical Embeddings." (*In Progress*).
+
 Yu, A., Becquey, C., Halikias, D., **Esmaili Mallory, M.**, & Townsend, A. (2021). "Arbitrary-Depth Universal Approximation Theorems for Operator Neural Networks." arXiv preprint. [arXiv:2109.11354](https://arxiv.org/abs/2109.11354).
 
 (\* indicates equal contribution)
