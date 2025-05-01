@@ -15,13 +15,11 @@ Outside of class, I am interested in lots of different things! I love playing th
 
 I do private tutoring for both statistics and mathematics. Please feel free to [reach out to me by email](mailto:matthewmallory@fas.harvard.edu) if you would like tutoring for courses in the Harvard Statistics department, or anything else more general. Also check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more. 
 
-### Theorem of the Month, April 2025
+### Theorem of the Month, May 2025
 
-$\sqrt{2}$ is irrational.
+Let us recursively define a sequence by letting $S_1 = 4$ and $S_{n+1} = S_{n}^2 - 2$. Then for every prime $p$, the Mersenne Number $M_p = 2^p-1$ is prime if and only if $M_p$ divides $S_{p-1}$. 
 
-*Proof.* For any $a \in \mathbb N$, $a^2$ in base three always has 1 as the last non-zero digit, and $2a^2$ always has 2 as the last non-zero digit. Thus $a^2 = 2b^2$ cannot have a non-zero solution.
-
-### Song of the Month, April 2025
+### Song of the Month, May 2025
 
 **Still Beating (Mac DeMarco):** I love Mac's music, especially the album that [this song](https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo?si=2387e35f8ac34069) is on! I wanted tickets to his Boston show but it was only resellers for hundreds of dollars :( 
 
