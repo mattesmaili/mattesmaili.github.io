@@ -17,7 +17,7 @@ I do private tutoring for both statistics and mathematics. Please feel free to [
 
 ### Theorem of the Month, May 2025
 
-Let us recursively define a sequence by letting $S_1 = 4$ and $S_{n+1} = S_{n}^2 - 2$. Then for every prime $p$, the Mersenne Number $M_p = 2^p-1$ is prime if and only if $M_p$ divides $S_{p-1}$. 
+Let us recursively define a sequence by letting $S_1 = 4$ and $S_{n+1} = S_{n}^2 - 2$. Then for every prime $p\geq3$, the Mersenne Number $M_p = 2^p-1$ is prime if and only if $M_p$ divides $S_{p-1}$. 
 
 ### Song of the Month, May 2025
 
