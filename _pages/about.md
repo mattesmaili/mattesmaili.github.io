@@ -17,7 +17,7 @@ I do private tutoring for both statistics and mathematics. Please feel free to [
 
 ### Theorem of the Month, June 2025
 
-There exists a constant $a = 1.00536773279814724017\ldots$ such that $\lfloor a^{10^{10n}}\rfloor$ is prime for every single $n \in \Z^+$! How bizarre is that?
+There exists a constant $a = 1.00536773279814724017\ldots$ such that $\lfloor a^{10^{10n}}\rfloor$ is prime for every single $n \in \mathbb{Z}^+$! How bizarre is that?
         
 ### Song of the Month, June 2025
 
