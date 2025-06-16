@@ -9,19 +9,19 @@ redirect_from:
 ---
 ## About Me ([CV here](https://mattesmaili.github.io/files/Resume.pdf))
 
-I am currently a third-year PhD student in the Department of Statistics at [Harvard University](https://statistics.fas.harvard.edu/), advised by [Dr. Morgane Austern](https://sites.google.com/view/morganeaustern/home?authuser=0). I am graciously supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/). Broadly, I am interested in the intersection of mathematics with statistical methods, such as universality, free probability, and random matrix theory. In June 2022, I completed my B.S. in Pure Mathematics and B.S. in Statistics at [UCLA](https://ww3.math.ucla.edu/).
+I am currently a rising fourth-year PhD student in the Department of Statistics at [Harvard University](https://statistics.fas.harvard.edu/), advised by [Dr. Morgane Austern](https://sites.google.com/view/morganeaustern/home?authuser=0). I am graciously supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/). Broadly, I am interested in the intersection of mathematics with statistical methods, such as universality, free probability, theoretical machine learning, and random matrix theory. In June 2022, I completed my B.S. in Pure Mathematics and B.S. in Statistics at [UCLA](https://ww3.math.ucla.edu/).
 
-Outside of class, I am interested in lots of different things! I love playing the [guitar](https://mattesmaili.github.io/files/guitar.png) & piano, cooking, pottery, shooting film photography, playing chess, learning languages, and more. My favorite artists are the [Beatles](https://open.spotify.com/playlist/07ZKf7841juhmGlI6LMfBd?si=4511ac89f1d14618), the Smiths, Clairo, Nick Drake, Mac DeMarco, and Chopin.
+Outside of class, I am interested in lots of different things! I love playing the [guitar](https://mattesmaili.github.io/files/guitar.png) & piano, cooking, making pottery, shooting film photography, tea culture, playing chess, learning languages, and more. My favorite artists are the [Beatles](https://open.spotify.com/playlist/07ZKf7841juhmGlI6LMfBd?si=4511ac89f1d14618), the Smiths, Clairo, Nick Drake, Mac DeMarco, and Chopin.
 
-I do private tutoring for both statistics and mathematics. Please feel free to [reach out to me by email](mailto:matthewmallory@fas.harvard.edu) if you would like tutoring for courses in the Harvard Statistics department, or anything else more general. Also check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more. 
+I do private tutoring for both statistics and mathematics. Please feel free to [reach out to me by email](mailto:matthewmallory@fas.harvard.edu) if you would like tutoring for courses in the Harvard Statistics department, or really anything involving mathematics or statistics. Also check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more!
 
-### Theorem of the Month, May 2025
+### Theorem of the Month, June 2025
 
-Let us recursively define a sequence by letting $S_1 = 4$ and $S_{n+1} = S_{n}^2 - 2$. Then for every prime $p\geq3$, the Mersenne Number $M_p = 2^p-1$ is prime if and only if $M_p$ divides $S_{p-1}$. For example, $M_3 = 2^3-1 = 7$ is prime, and $7$ divides $S_{3-1} = S_2 = 4^2-2 = 14$. 
+There exists a constant $a = 1.00536773279814724017\ldots$ such that $\lfloor a^{10^{10n}}\rfloor$ is prime for every single $n \in \Z^+$! How bizarre is that?
+        
+### Song of the Month, June 2025
 
-### Song of the Month, May 2025
-
-**Still Beating (Mac DeMarco):** I love Mac's music, especially the album that [this song](https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo?si=2387e35f8ac34069) is on! I wanted tickets to his Boston show but it was only resellers for hundreds of dollars :( 
+**Disney Girls (The Beach Boys):** Rest in peace to the legend, Brian Wilson! So many Beach Boys songs, such as [this one](https://open.spotify.com/track/17qLiavc8woWHAPAGZD0Py?si=577e8dc30ca84d2d), invoke a sense of nostaliga for a time I never even experienced myself. Living near Disneyland myself, I always feel that sense of magic they allude to when I visit.
 
 ## Publications
 
