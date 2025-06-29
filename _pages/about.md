@@ -17,11 +17,11 @@ I do private tutoring for both statistics and mathematics. Please feel free to [
 
 ### Theorem of the Month, June 2025
 
-There exists a constant $a = 1.00536773279814724017\ldots$ such that $\lfloor a^{10^{10n}}\rfloor$ is prime for every single $n \in \mathbb{Z}^+$! How bizarre is that?
-        
-### Song of the Month, June 2025
+Let $A$ be a subset of a topological space. Define $kA := \text{clos}(A)$ and $cA := A^c$. Then the maximum number of unique sets that can be obtained by repeated applications of closure and complement is exactly 14! As an example, take $A = (0, 1) \cup (1, 2)\cup \{3\} \cup ([4, 5]\cap\mathbb{Q})\subseteq \mathbb{R}$. Then the 14 sets are $A, cA, kcA, ckcA, kckcA, ckckcA, kckckcA, ckckckcA, kA, ckA, kckA, ckckA, kckckA, ckckckA$.    
 
-**Disney Girls (The Beach Boys):** Rest in peace to the legend, Brian Wilson! So many Beach Boys songs, such as [this one](https://open.spotify.com/track/17qLiavc8woWHAPAGZD0Py?si=577e8dc30ca84d2d), invoke a sense of nostaliga for a time I never even experienced myself. Living near Disneyland myself, I always feel that sense of magic they allude to when I visit.
+### Song of the Month, July 2025
+
+**That's Not Me (The Beach Boys):** I don't know what it is about [this song](https://open.spotify.com/track/0VJZtH2OjNKskNegMVIzYR?si=2fa99a2674b94b72) or any of the ones on Pet Sounds, but there's something so magical in them!
 
 ## Publications
 
