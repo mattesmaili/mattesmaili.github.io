@@ -15,7 +15,7 @@ Outside of research, I am interested in lots of different things! I love playing
 
 I do private tutoring for both statistics and mathematics. Please feel free to [reach out to me by email](mailto:matthewmallory@fas.harvard.edu) if you would like tutoring for courses in the Harvard Statistics department, or really anything involving mathematics or statistics. Also check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more!
 
-### Theorem of the Month, June 2025
+### Theorem of the Month, July 2025
 
 Let $A$ be a subset of a topological space. Define $kA := \text{clos}(A)$ and $cA := A^c$. Then the maximum number of unique sets that can be obtained by repeated applications of closure and complement is exactly 14! As an example, take $A = (0, 1) \cup (1, 2)\cup \{3\} \cup ([4, 5]\cap\mathbb{Q})\subseteq \mathbb{R}$. Then the 14 sets are $A, cA, kcA, ckcA, kckcA, ckckcA, kckckcA, ckckckcA, kA, ckA, kckA, ckckA, kckckA, ckckckA$.    
 
