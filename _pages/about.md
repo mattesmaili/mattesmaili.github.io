@@ -17,7 +17,7 @@ I do private tutoring for both statistics and mathematics. Please feel free to [
 
 ### Theorem of the Month, July 2025
 
-Let $A$ be a subset of a topological space. Define $kA := \text{clos}(A)$ and $cA := A^c$. Then the maximum number of unique sets that can be obtained by repeated applications of closure and complement is exactly 14! As an example, take $A = (0, 1) \cup (1, 2)\cup \{3\} \cup ([4, 5]\cap\mathbb{Q})\subseteq \mathbb{R}$. Then the 14 sets are $A, cA, kcA, ckcA, kckcA, ckckcA, kckckcA, ckckckcA, kA, ckA, kckA, ckckA, kckckA, ckckckA$.    
+Choose four points uniformly at random from the unit cube $[0,1]^3$, and let $V_{T}$ represent the volume of the tetrahedron formed by these four points. Then the expected volume of $V_T$ is $\frac{3977}{216000} - \frac{\pi^2}{2160} \approx 0.01384$.
 
 ### Song of the Month, July 2025
 
