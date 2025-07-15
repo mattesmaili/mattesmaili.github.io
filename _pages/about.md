@@ -25,7 +25,7 @@ Let $A$ be a subset of a topological space. Define $kA := \text{clos}(A)$ and $c
 
 ## Publications
 
-**Esmaili Mallory, M.**\*, Huang, K. H.\*, & Austern, M. (2025). "Universality of High-Dimensional Logistic Regression and a Novel CGMT under Dependence with Applications to Data Augmentation." arXiv preprint. [arXiv:2502.15752](https://arxiv.org/abs/2502.15752). (*Accepted to [COLT 2025](https://learningtheory.org/colt2025/)*).
+**Esmaili Mallory, M.**\*, Huang, K. H.\*, & Austern, M. (2025). "Universality of High-Dimensional Logistic Regression and a Novel CGMT under Dependence with Applications to Data Augmentation." arXiv preprint. [arXiv:2502.15752](https://arxiv.org/abs/2502.15752). ([COLT 2025](https://learningtheory.org/colt2025/)).
 
 **Esmaili Mallory, M.**, Brown, J. & Glickman, M. (2025). "Come Together: Analyzing Popular Songs Through Statistical Embeddings." (*In Progress*).
 
