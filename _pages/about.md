@@ -17,7 +17,7 @@ I do private tutoring for both statistics and mathematics. Please feel free to [
 
 ### Theorem of the Month, July 2025
 
-Choose four points uniformly at random from the unit cube $[0,1]^3$, and let $V_{T}$ represent the volume of the tetrahedron formed by these four points. Then the expected volume of $V_T$ is $\frac{3977}{216000} - \frac{\pi^2}{2160} \approx 0.01384$.
+Choose four points uniformly at random from the unit cube $[0,1]^3$, and use them to form a tetrahedron $T$. Then the expected volume of $T$ is exactly $\frac{3977}{216000} - \frac{\pi^2}{2160} \approx 0.01384$.
 
 ### Song of the Month, July 2025
 
