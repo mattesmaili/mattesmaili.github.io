@@ -27,7 +27,7 @@ Choose four points uniformly at random from the unit cube $[0,1]^3$, and use the
 
 **Esmaili Mallory, M.**\*, Huang, K. H.\*, & Austern, M. (2025). "Universality of High-Dimensional Logistic Regression and a Novel CGMT under Dependence with Applications to Data Augmentation." [Conference on Learning Theory 2025](https://learningtheory.org/colt2025/). [arXiv:2502.15752](https://arxiv.org/abs/2502.15752).
 
-**Esmaili Mallory, M.**, Brown, J. & Glickman, M. (2025). "Come Together: Analyzing Popular Songs Through Statistical Embeddings." (*In Progress*).
+**Esmaili Mallory, M.**, Brown, J. & Glickman, M. (2025). "Come Together: Analyzing Popular Songs Through Statistical Embeddings." (*To be presented at [Joint Statistical Meetings 2025](https://ww2.amstat.org/meetings/jsm/2025/)*).
 
 Yu, A., Becquey, C., Halikias, D., **Esmaili Mallory, M.**, & Townsend, A. (2021). "Arbitrary-Depth Universal Approximation Theorems for Operator Neural Networks." arXiv preprint. [arXiv:2109.11354](https://arxiv.org/abs/2109.11354).
 
