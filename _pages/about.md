@@ -17,7 +17,7 @@ I do private tutoring for both statistics and mathematics. Please feel free to [
 
 ### Theorem of the Month, August 2025
 
-Unfortunately $\frac{\pi}{e}\neq 1$ but rather $\int_{\mathbb{R}}\frac{\cos(x)}{(x^2+1)^2}\,\text{d}x = \frac{\pi}{e}$.
+Unfortunately $\frac{\pi}{e}\neq 1$ but rather $\int_{\mathbb{R}}\frac{\cos(x)}{(x^2+1)^2}\text{d}x = \frac{\pi}{e}$.
 
 
 ### Song of the Month, August 2025
