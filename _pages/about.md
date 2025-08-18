@@ -15,13 +15,14 @@ Outside of research, I am interested in lots of different things! I love playing
 
 I do private tutoring for both statistics and mathematics. Please feel free to [reach out to me by email](mailto:matthewmallory@fas.harvard.edu) if you would like tutoring for courses in the Harvard Statistics department, or really anything involving mathematics or statistics. Also check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more!
 
-### Theorem of the Month, July 2025
+### Theorem of the Month, August 2025
 
-Choose four points uniformly at random from the unit cube $[0,1]^3$, and use them to form a tetrahedron $T$. Then the expected volume of $T$ is exactly $\frac{3977}{216000} - \frac{\pi^2}{2160} \approx 0.01384$.
+Unfortunately $\frac{\pi}{e}\neq 1$ but rather $\int_{\mathbb{R}}\frac{\cos(x)}{(x^2+1)^2}\,\text{d}x = \frac{\pi}{e}$.
 
-### Song of the Month, July 2025
 
-**That's Not Me (The Beach Boys):** I don't know what it is about [this song](https://open.spotify.com/track/0VJZtH2OjNKskNegMVIzYR?si=2fa99a2674b94b72) or any of the ones on Pet Sounds, but there's something so magical in them!
+### Song of the Month, August 2025
+
+**Another Stone (Men I Trust):** I'm seeing Men I Trust next month and [this song](https://open.spotify.com/track/5RHhmGMV3FKxRa63AIfIgZ?si=bf80cfe2545546c9) off their new double album is one I'm so excited for!
 
 ## Publications
 
