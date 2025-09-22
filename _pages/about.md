@@ -15,14 +15,13 @@ Outside of research, I am interested in lots of different things! I love playing
 
 I do private tutoring for both statistics and mathematics. Please feel free to [reach out to me by email](mailto:matthewmallory@fas.harvard.edu) if you would like tutoring for courses in the Harvard Statistics department, or really anything involving mathematics or statistics. Also check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more!
 
-### Theorem of the Month, August 2025
+### Theorem of the Month, September 2025
 
-Unfortunately $\frac{\pi}{e}\neq 1$ but rather $\int_{\mathbb{R}}\frac{\cos(x)}{(x^2+1)^2}\text{d}x = \frac{\pi}{e}$.
+$\int_0^{\pi/2}x\log(\sin(x))dx = \frac{7}{16}\zeta(3) - \frac{\pi^2}{8}\log(2)$.
 
+### Song of the Month, September 2025
 
-### Song of the Month, August 2025
-
-**Another Stone (Men I Trust):** I'm seeing Men I Trust next month and [this song](https://open.spotify.com/track/5RHhmGMV3FKxRa63AIfIgZ?si=bf80cfe2545546c9) off their new double album is one I'm so excited for!
+**Dark Sweet Lady (George Harrison):** All the instrumentation in [this song](https://open.spotify.com/track/0kaiyzSYYpnB2p64zhrilV?si=dc0a162e425144cf) is just so gorgeous, and I love thinking about George writing it about his wonderful wife Olivia!
 
 ## Publications
 
