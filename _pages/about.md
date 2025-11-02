@@ -15,13 +15,13 @@ Outside of research, I am interested in lots of different things! I love playing
 
 I do private tutoring for both statistics and mathematics. Please feel free to [reach out to me by email](mailto:matthewmallory@fas.harvard.edu) if you would like tutoring for courses in the Harvard Statistics department, or really anything involving mathematics or statistics. Also check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more!
 
-### Theorem of the Month, October 2025
+### Theorem of the Month, November 2025
 
-Since it is my birthday, I'll mention the famous birthday problem: What's the smallest number of people you need in a room to ensure that there is greater than a 50% chance two of them have the same birthday? It's only 23 people!
+Take a positive integer $n$. Then we can write $n = x^2 + y^2 + z^2$ for $x, y,z$ integers if and only if $n\neq 4^a(8b+7)$ for any $a, b$ integers.
 
-### Song of the Month, October 2025
+### Song of the Month, November 2025
 
-**Dark Sweet Lady (George Harrison):** All the instrumentation in [this song](https://open.spotify.com/track/0kaiyzSYYpnB2p64zhrilV?si=dc0a162e425144cf) is just so gorgeous, and I love thinking about George writing it about his wonderful wife Olivia!
+**Feel It All Around (Washed Out):** Honestly, not only is [this song](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK?si=b2839dd6039f4c88) gorgeous, it's also the theme song for Portlandia which makes it even better!!
 
 ## Publications
 
