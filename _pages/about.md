@@ -17,7 +17,7 @@ I do private tutoring for both statistics and mathematics. Please feel free to [
 
 ### Theorem of the Month, December 2025
 
-An interesting proof that $\sqrt2$ is irrational: if not, then the equation $(18 + 17\sqrt2)^3 + (18 - 17sqrt2)^3 = 42^3$ would contradict Fermat's Last Theorem!
+An interesting proof that $\sqrt2$ is irrational: if not, then the equation $(18 + 17\sqrt2)^3 + (18 - 17\sqrt2)^3 = 42^3$ would contradict Fermat's Last Theorem!
 
 ### Song of the Month, December 2025
 
