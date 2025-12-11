@@ -15,11 +15,11 @@ Outside of research, I am interested in lots of different things! I love playing
 
 I do private tutoring for both statistics and mathematics. Please feel free to [reach out to me by email](mailto:matthewmallory@fas.harvard.edu) if you would like tutoring for courses in the Harvard Statistics department, or really anything involving mathematics or statistics. Also check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more!
 
-### Theorem of the Month, November 2025
+### Theorem of the Month, December 2025
 
-Take a positive integer $n$. Then we can write $n = x^2 + y^2 + z^2$ for $x, y,z$ integers if and only if $n\neq 4^a(8b+7)$ for any $a, b$ integers.
+An interesting proof that $\sqrt2$ is irrational: if not, then the equation $(18 + 17\sqrt2)^3 + (18 - 17sqrt2)^3 = 42^3$ would contradict Fermat's Last Theorem!
 
-### Song of the Month, November 2025
+### Song of the Month, December 2025
 
 **Feel It All Around (Washed Out):** Honestly, not only is [this song](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK?si=b2839dd6039f4c88) gorgeous, it's also the theme song for Portlandia which makes it even better!!
 
@@ -34,6 +34,9 @@ Yu, A., Becquey, C., Halikias, D., **Esmaili Mallory, M.**, & Townsend, A. (2021
 (\* indicates equal contribution)
 
 ## Teaching
+
+• **Stat 175:** Statistics and Data Science of Networks, [Dr. Morgane Austern](https://sites.google.com/view/morganeaustern/home?authuser=0). Harvard University, Spring 2026.
+
 • **Stat 149:** Introduction to Generalized Linear Models, [Dr. Mark Glickman](http://www.glicko.net/). Harvard University, Spring 2024.
 
 • **Stat 104:** Introduction to Quantitative Methods for Economics, [Dr. Kevin Rader](https://statistics.fas.harvard.edu/people/kevin-rader). Harvard University, Fall 2023.
