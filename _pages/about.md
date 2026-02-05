@@ -15,13 +15,13 @@ Outside of research, I am interested in lots of different things! I love playing
 
 I do private tutoring for both statistics and mathematics. Please feel free to [reach out to me by email](mailto:matthewmallory@fas.harvard.edu) if you would like tutoring for courses in the Harvard Statistics department, or really anything involving mathematics or statistics. Also check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more!
 
-### Theorem of the Month, December 2025
+### Theorem of the Month, February 2026
 
-An interesting proof that $\sqrt2$ is irrational: if not, then the equation $(18 + 17\sqrt2)^3 + (18 - 17\sqrt2)^3 = 42^3$ would contradict Fermat's Last Theorem!
+$\frac{1^5}{1 + e^\pi} + \frac{3^5}{1 + e^{3\pi}} + \frac{5^5}{1 + e^{5\pi}} + \ldots = \frac{31}{504}$.
 
-### Song of the Month, December 2025
+### Song of the Month, February 2026
 
-**Feel It All Around (Washed Out):** Honestly, not only is [this song](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK?si=b2839dd6039f4c88) gorgeous, it's also the theme song for Portlandia which makes it even better!!
+**King of Hearts (Playdate):** This group has sadly only made like 8 songs, but all of them are incredible! [This song](https://open.spotify.com/track/21AknX5qT4U9WBpD4mbiyG?si=ff8745ef067c4eb3) in particular is just super groovy.
 
 ## Publications
 
