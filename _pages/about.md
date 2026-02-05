@@ -17,7 +17,7 @@ I do private tutoring for both statistics and mathematics. Please feel free to [
 
 ### Theorem of the Month, February 2026
 
-$\frac{1^5}{1 + e^\pi} + \frac{3^5}{1 + e^{3\pi}} + \frac{5^5}{1 + e^{5\pi}} + \ldots = \frac{31}{504}$.
+$$\dfrac{1^5}{1 + e^\pi} + \dfrac{3^5}{1 + e^{3\pi}} + \dfrac{5^5}{1 + e^{5\pi}} + \ldots = \dfrac{31}{504}$$.
 
 ### Song of the Month, February 2026
 
