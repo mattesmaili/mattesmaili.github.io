@@ -15,13 +15,13 @@ Outside of research, I am interested in lots of different things! I love playing
 
 I do private tutoring for both statistics and mathematics. Please feel free to [reach out to me by email](mailto:matthewmallory@fas.harvard.edu) if you would like tutoring for courses in the Harvard Statistics department, or really anything involving mathematics or statistics. Also check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more!
 
-### Theorem of the Month, February 2026
+### Theorem of the Month, March 2026
 
-$$\dfrac{1^5}{1 + e^\pi} + \dfrac{3^5}{1 + e^{3\pi}} + \dfrac{5^5}{1 + e^{5\pi}} + \ldots = \dfrac{31}{504}$$.
+Every single non-negative integer $n$ (except for $n = 5$) can be written in the form $n = a^2 + 2b^2 + 7c^2 + 11d^2$, where $a$, $b$, $c$, $d$ are all non-negative integers.
 
-### Song of the Month, February 2026
+### Song of the Month, March 2026
 
-**King of Hearts (Playdate):** This group has sadly only made like 8 songs, but all of them are incredible! [This song](https://open.spotify.com/track/21AknX5qT4U9WBpD4mbiyG?si=ff8745ef067c4eb3) in particular is just super groovy.
+**Angel (Alice Phoebe Lou):** I think [this song](https://open.spotify.com/track/3PLaKiMLIlrjvPoPlYK7sT?si=de683caed4b5434b) is just so beautiful, and I am excited to actually see her in concert in Boston next month!
 
 ## Publications
 
