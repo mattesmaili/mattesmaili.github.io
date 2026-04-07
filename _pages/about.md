@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About Me ([CV here](https://mattesmaili.github.io/files/Resume_40626.pdf))
+## About Me ([CV here](https://mattesmaili.github.io/files/resume_40626.pdf))
 
 I am a fourth-year PhD student in the Department of Statistics at [Harvard University](https://statistics.fas.harvard.edu/), advised by [Dr. Morgane Austern](https://sites.google.com/view/morganeaustern/home?authuser=0). I am graciously supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/). Broadly, I am interested in the intersection of mathematics with statistical methods, such as universality, free probability, theoretical machine learning, and random matrix theory. In June 2022, I completed my B.S. in Pure Mathematics and B.S. in Statistics at [UCLA](https://ww3.math.ucla.edu/). This Summer 2026, I will be a Quantitative Research Intern at [Virtu Financial](https://www.virtu.com/).
 
