@@ -36,16 +36,25 @@ Yu, A., Becquey, C., Halikias, D., **Esmaili Mallory, M.**, & Townsend, A. (2021
 ## Teaching
 
 • **Stat 175:** Statistics and Data Science of Networks, [Dr. Morgane Austern](https://sites.google.com/view/morganeaustern/home?authuser=0). Harvard University, Spring 2026.
+
 • **Stat 149:** Introduction to Generalized Linear Models, [Dr. Mark Glickman](http://www.glicko.net/). Harvard University, Spring 2024.
+
 • **Stat 104:** Introduction to Quantitative Methods for Economics, [Dr. Kevin Rader](https://statistics.fas.harvard.edu/people/kevin-rader). Harvard University, Fall 2023.
+
 • **Math 115A:** Linear Algebra, [Dr. Will Conley](https://www.math.ucla.edu/~wconley/). UCLA, Winter 2022.
+
 • **Math 115A:** Linear Algebra, [Dr. Christy Hazel](https://christyhazel.github.io/). UCLA, Spring 2021.
 
 ## Talks & Presentations
 
 • **Stat 300: Research in Statistics Seminar**. Harvard University, April 2025.
+
 • **Conference on Learning Theory (COLT) 2025**. Lyon, France, July 2025.
+
 • **Princeton Machine Learning Theory Summer School**. Princeton, NJ, August 2025.
+
 • **Joint Symposium on Statistics, Applied Math & Beyond**. Harvard University, March 2026.
+
 • **Stat 300: Research in Statistics Seminar**. Harvard University, April 2026.
+
 • **Joint Statistical Meetings (JSM) 2026**. Boston, MA, August 2026.
