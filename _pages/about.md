@@ -15,12 +15,12 @@ Outside of research, I am interested in lots of different things! I love playing
 
 I do private tutoring for both statistics and mathematics. Please feel free to [reach out to me by email](mailto:matthewmallory@fas.harvard.edu) if you would like tutoring for courses in the Harvard Statistics department, or really anything involving mathematics or statistics. Also check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more!
 
-### Theorem of the Month, June 2026
+### Theorem of the Month, July 2026
 
 Let $a_n$ be the $n^{\text{th}}$ positive root of $f(x) = \csc(x) - x$. Then 
 $$\sum_{n=1}^\infty \frac{1}{a_n^2} = 1.$$
 
-### Song of the Month, June 2026
+### Song of the Month, July 2026
 
 **Photograph (Astrud Gilberto):** I've really been getting more into bossa nova recently, and I especially love how Astrud's voice blends with the instrumentation in [this song](https://open.spotify.com/track/6HOtn3ccKCgz2vQkWFIYnp?si=ce0c37d0b22d4980).
 
