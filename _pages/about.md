@@ -15,14 +15,13 @@ Outside of research, I am interested in lots of different things! I love playing
 
 I do private tutoring for both statistics and mathematics. Please feel free to [reach out to me by email](mailto:matthewmallory@fas.harvard.edu) if you would like tutoring for courses in the Harvard Statistics department, or really anything involving mathematics or statistics. Also check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more!
 
-### Theorem of the Month, August 2026
+### Theorem of the Month, September 2026
 
-Let $a_n$ be the $n^{\text{th}}$ positive root of $f(x) = \csc(x) - x$. Then 
-$$\sum_{n=1}^\infty \frac{1}{a_n^2} = 1.$$
+We know that $3.14159 < \pi < 3.14160$, precisely because $$\int_0^1\frac{x^9(1-x)^6(6569x^2+944)}{11250(x^2+1)}\,\text{d}x &= \pi - 3.14159$$ and $$\int_0^1\frac{x^8(1-x)^6(61x^2+250x+61)}{500(x^2+1)}\,\text{d}x &= 3.14160 - \pi.$$
 
-### Song of the Month, August 2026
+### Song of the Month, September 2026
 
-**Photograph (Astrud Gilberto):** I've really been getting more into bossa nova recently, and I especially love how Astrud's voice blends with the instrumentation in [this song](https://open.spotify.com/track/6HOtn3ccKCgz2vQkWFIYnp?si=ce0c37d0b22d4980).
+**Kiss Me (Sixpence None The Richer):** I'm not sure why, but I've really been getting into Sixpence None The Richer and a lot of their classics recently, just like [this great song](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp?si=3fa9ad4b9d964957).
 
 ## Publications
 
