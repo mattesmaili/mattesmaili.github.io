@@ -17,7 +17,7 @@ I do private tutoring for both statistics and mathematics. Please feel free to [
 
 ### Theorem of the Month, September 2026
 
-We know that $3.14159 < \pi < 3.14160$, precisely because $$\int_0^1\frac{x^9(1-x)^6(6569x^2+944)}{11250(x^2+1)}\,\text{d}x &= \pi - 3.14159$$ and $$\int_0^1\frac{x^8(1-x)^6(61x^2+250x+61)}{500(x^2+1)}\,\text{d}x &= 3.14160 - \pi.$$
+We know that $3.14159 < \pi < 3.14160$, precisely because $$\int_0^1\frac{x^9(1-x)^6(6569x^2+944)}{11250(x^2+1)}\,\text{d}x = \pi - 3.14159$$ and $$\int_0^1\frac{x^8(1-x)^6(61x^2+250x+61)}{500(x^2+1)}\,\text{d}x = 3.14160 - \pi.$$
 
 ### Song of the Month, September 2026
 
