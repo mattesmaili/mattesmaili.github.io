@@ -15,13 +15,14 @@ Outside of research, I am interested in lots of different things! I love playing
 
 I do private tutoring for both statistics and mathematics. Please feel free to [reach out to me by email](mailto:matthewmallory@fas.harvard.edu) if you would like tutoring for courses in the Harvard Statistics department, or really anything involving mathematics or statistics. Also check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more!
 
-### Theorem of the Month, September 2026
+### Theorem of the Month, October 2026
 
-We know that $3.14159 < \pi < 3.14160$, precisely because $$\int_0^1\frac{x^9(1-x)^6(6569x^2+944)}{11250(x^2+1)}\,\text{d}x = \pi - 3.14159$$ and $$\int_0^1\frac{x^8(1-x)^6(61x^2+250x+61)}{500(x^2+1)}\,\text{d}x = 3.14160 - \pi.$$
+Define the sequence $(a_n)_{n\geq1}$ by $$a_n = \begin{cases}1, & n\text{ has an even number of prime factors}\\ -1, & \text{otherwise} \end{cases}.$$ Then the following series converges: $$\sum_{n=1}^\infty\frac{a_n}{n^{7/8}}.$$
 
-### Song of the Month, September 2026
 
-**Kiss Me (Sixpence None The Richer):** I'm not sure why, but I've really been getting into Sixpence None The Richer and a lot of their classics recently, just like [this great song](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp?si=3fa9ad4b9d964957).
+### Song of the Month, October 2026
+
+**Silly Love Songs Demo (Wings):** When my mother came to America from Iran, the (non-demo) version of [this song](https://open.spotify.com/track/4swoNQroJF3q3xtqNUf1d7?si=e673febc1e454966) was the first one she ever heard on American radio. However, I recently came across this demo version which I think adds so much charm and poignancy to an already beautiful tune.
 
 ## Publications
 
