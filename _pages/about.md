@@ -17,7 +17,13 @@ I do private tutoring for both statistics and mathematics. Please feel free to [
 
 ### Theorem of the Month, October 2026
 
-Define the sequence $(a_n)_{n\geq1}$ by $$a_n = \begin{cases}1, & n\text{ has an even number of prime factors}\\ -1, & \text{otherwise} \end{cases}.$$ Then the following series converges: $$\sum_{n=1}^\infty\frac{a_n}{n^{7/8}}.$$
+Define the sequence $(a_n)_{n\geq1}$ by
+
+$$a_n = \begin{cases}1, & n\text{ has an even number of prime factors}\\ -1, & \text{otherwise} \end{cases}$$
+
+Then the following series converges:
+
+$$\sum_{n=1}^\infty\frac{a_n}{n^{7/8}}.$$
 
 
 ### Song of the Month, October 2026
