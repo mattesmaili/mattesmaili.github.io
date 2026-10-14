@@ -17,9 +17,9 @@ I do private tutoring for both statistics and mathematics. Please feel free to [
 
 ### Theorem of the Month, October 2026
 
-Define the function $f : \mathbb{N}\to\{\pm1\}$ by
+Define the function $f : \mathbb{N}\to \{\pm1\}$ by
 
-$$f(n) = \begin{cases}1, & n\text{ has an even number of prime factors}\\ -1, & \text{otherwise} \end{cases}$$
+$$f(n) = \begin{cases}+1, & n\text{ has an even number of prime factors}\\ -1, & \text{otherwise} \end{cases}$$
 
 We count multiplicity, so for example $f(4) = f(2^2) = 1$, and $f(5) = -1$. Then, the following series converges:
 
