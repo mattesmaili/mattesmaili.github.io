@@ -15,20 +15,18 @@ Outside of research, I am interested in lots of different things! I love playing
 
 I do private tutoring for both statistics and mathematics. Please feel free to [reach out to me by email](mailto:matthewmallory@fas.harvard.edu) if you would like tutoring for courses in the Harvard Statistics department, or really anything involving mathematics or statistics. Also check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more!
 
-### Theorem of the Month, October 2026
+### Theorem of the Month, November 2026
+The shortest equation involving only matrix multiplication that the two matrices
+        $$A = \begin{pmatrix}
+            2 & 0 \\ 0 & 3
+        \end{pmatrix},\ \ \ B = \begin{pmatrix}
+            3 & 5 \\ 0 & 5
+        \end{pmatrix}$$
+satisfy is $AB^{10}A^2BA^2BA^{10} = B^2A^6B^2A^2BABABA^2B^2A^2BAB^2$. 
 
-Define the function $f : \mathbb{N}\to \{\pm1\}$ by
+### Song of the Month, November 2026
 
-$$f(n) = \begin{cases}+1, & n\text{ has an even number of prime factors}\\ -1, & \text{otherwise} \end{cases}$$
-
-We count multiplicity, so for example $f(4) = f(2^2) = 1$, and $f(5) = -1$. Then, the following series converges:
-
-$$\sum_{n=1}^\infty\frac{f(n)}{n^{7/8}}.$$
-
-
-### Song of the Month, October 2026
-
-**Silly Love Songs Demo (Wings):** When my mother came to America from Iran, the (non-demo) version of [this song](https://open.spotify.com/track/4swoNQroJF3q3xtqNUf1d7?si=e673febc1e454966) was the first one she ever heard on American radio. However, I recently came across this demo version which I think adds so much charm and poignancy to an already beautiful tune.
+**Graveyard Theme (Vince Guaraldi):** The entire Vince Guaraldi music for the Peanuts Holiday movies has been on repeat for me, and [this song](https://open.spotify.com/track/5WOEu7bI9bgozY0OiLPHlq?si=224adbb559384521) is actually one I only recently came to appreciate. Be sure to listen to the (many) reprises of it too!
 
 ## Publications
 
