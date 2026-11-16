@@ -58,6 +58,8 @@ Yu, A., Becquey, C., Halikias, D., **Esmaili Mallory, M.**, & Townsend, A. (2021
 
 • **Princeton Machine Learning Theory Summer School**. Princeton, NJ, August 2025.
 
+• **Joint Statistical Meetings (JSM) 2025**. Nashville, TN, August 2025.
+
 • **Joint Symposium on Statistics, Applied Math & Beyond**. Harvard University, March 2026.
 
 • **Stat 300: Research in Statistics Seminar**. Harvard University, April 2026.
