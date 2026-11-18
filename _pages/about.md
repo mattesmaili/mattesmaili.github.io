@@ -15,19 +15,6 @@ Outside of research, I am interested in lots of different things! I love playing
 
 I do private tutoring for both statistics and mathematics. Please feel free to [reach out to me by email](mailto:matthewmallory@fas.harvard.edu) if you would like tutoring for courses in the Harvard Statistics department, or really anything involving mathematics or statistics. Also check out my Instagram page, [Razi ba Riazi](https://www.instagram.com/razibariazi), for cool mathematics videos, PhD advice, and more!
 
-### Theorem of the Month, November 2026
-The shortest equation involving only matrix multiplication that the two matrices
-        $$A = \begin{pmatrix}
-            2 & 0 \\ 0 & 3
-        \end{pmatrix},\ \ \ B = \begin{pmatrix}
-            3 & 5 \\ 0 & 5
-        \end{pmatrix}$$
-satisfy is $AB^{10}A^2BA^2BA^{10} = B^2A^6B^2A^2BABABA^2B^2A^2BAB^2$. 
-
-### Song of the Month, November 2026
-
-**Graveyard Theme (Vince Guaraldi):** The entire Vince Guaraldi music for the Peanuts Holiday movies has been on repeat for me, and [this song](https://open.spotify.com/track/5WOEu7bI9bgozY0OiLPHlq?si=224adbb559384521) is actually one I only recently came to appreciate. Be sure to listen to the (many) reprises of it too!
-
 ## Publications
 
 **Esmaili Mallory, M.**\*, Huang, K. H.\*, & Austern, M. (2025). "Universality of High-Dimensional Logistic Regression and a Novel CGMT under Dependence with Applications to Data Augmentation." In [Proceedings of Thirty Eighth Conference on Learning Theory](https://proceedings.mlr.press/v291/esmaili-mallory25a.html) (pp. 1799–1918). PMLR.
@@ -65,3 +52,18 @@ Yu, A., Becquey, C., Halikias, D., **Esmaili Mallory, M.**, & Townsend, A. (2021
 • **Stat 300: Research in Statistics Seminar**. Harvard University, April 2026.
 
 • **Joint Statistical Meetings (JSM) 2026**. Boston, MA, August 2026.
+
+## Just for Fun
+
+### Theorem of the Month, November 2026
+The shortest equation involving only matrix multiplication that the two matrices
+        $$A = \begin{pmatrix}
+            2 & 0 \\ 0 & 3
+        \end{pmatrix},\ \ \ B = \begin{pmatrix}
+            3 & 5 \\ 0 & 5
+        \end{pmatrix}$$
+satisfy is $AB^{10}A^2BA^2BA^{10} = B^2A^6B^2A^2BABABA^2B^2A^2BAB^2$. 
+
+### Song of the Month, November 2026
+
+**Graveyard Theme (Vince Guaraldi):** The entire Vince Guaraldi music for the Peanuts Holiday movies has been on repeat for me, and [this song](https://open.spotify.com/track/5WOEu7bI9bgozY0OiLPHlq?si=224adbb559384521) is actually one I only recently came to appreciate. Be sure to listen to the (many) reprises of it too!
