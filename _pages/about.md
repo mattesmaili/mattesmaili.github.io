@@ -40,6 +40,9 @@ Yu, A., Becquey, C., Halikias, D., **Esmaili Mallory, M.**, & Townsend, A. (2021
 
 ## Teaching
 
+• **Stat 100:** Introduction to Statistics and Data Science, [Dr. Mine Dogucu](https://www.minedogucu.com/). Harvard University, Spring 2027.
+
+
 • **Stat 175:** Statistics and Data Science of Networks, [Dr. Morgane Austern](https://sites.google.com/view/morganeaustern/home?authuser=0). Harvard University, Spring 2026.
 
 • **Stat 149:** Introduction to Generalized Linear Models, [Dr. Mark Glickman](http://www.glicko.net/). Harvard University, Spring 2024.
