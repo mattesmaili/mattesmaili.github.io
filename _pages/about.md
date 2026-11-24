@@ -32,7 +32,7 @@ satisfy is $AB^{10}A^2BA^2BA^{10} = B^2A^6B^2A^2BABABA^2B^2A^2BAB^2$.
 
 **Esmaili Mallory, M.**\*, Huang, K. H.\*, & Austern, M. (2025). "Universality of High-Dimensional Logistic Regression and a Novel CGMT under Dependence with Applications to Data Augmentation." In [Proceedings of Thirty Eighth Conference on Learning Theory](https://proceedings.mlr.press/v291/esmaili-mallory25a.html) (pp. 1799–1918). PMLR.
 
-**Esmaili Mallory, M.**, Glickman, M. E., and Brown, J. I. (2026). "Analysis of Popular Songs Through Statistical Embeddings." Journal of Data Science (2026):1-17. [https://doi.org/10.6339/26-JDS1256](https://doi.org/10.6339/26-JDS1256).
+**Esmaili Mallory, M.**, Glickman, M. E., & Brown, J. I. (2026). "Analysis of Popular Songs Through Statistical Embeddings." Journal of Data Science (2026):1-17. [https://doi.org/10.6339/26-JDS1256](https://doi.org/10.6339/26-JDS1256).
 
 Yu, A., Becquey, C., Halikias, D., **Esmaili Mallory, M.**, & Townsend, A. (2021). "Arbitrary-Depth Universal Approximation Theorems for Operator Neural Networks." arXiv preprint. [arXiv:2109.11354](https://arxiv.org/abs/2109.11354).
 
